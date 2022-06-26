@@ -1,0 +1,126 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-23 19:26:14
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-23 19:26:14 W3SVC3464 GET /robots.txt - - 180.76.6.140 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - ksmiti.com 404 0 64 0 182 218
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-23 20:40:47
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-23 20:40:47 W3SVC3464 GET /admission.htm - - 188.165.15.13 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.0;++http://ahrefs.com/robot/) - - ksmiti.com 404 0 64 0 174 1328
+2015-04-23 20:43:06 W3SVC3464 GET / - - 220.181.108.76 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - ksmiti.com 304 0 0 230 304 468
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-23 21:47:40
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-23 21:47:39 W3SVC3464 GET /robots.txt - - 66.249.65.166 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 404 0 2 1405 255 625
+2015-04-23 21:47:40 W3SVC3464 GET /scheme.htm - - 66.249.65.166 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 200 0 0 17625 422 1109
+2015-04-23 21:54:14 W3SVC3464 GET /style.css - - 66.249.65.162 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 200 0 0 2686 237 484
+2015-04-23 22:02:46 W3SVC3464 GET /gallery.htm - - 66.249.65.166 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 200 0 0 23986 423 1203
+2015-04-23 22:04:04 W3SVC3464 GET /css/jquery.lightbox-0.5.css - - 66.249.65.166 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 200 0 0 2513 255 312
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-23 23:48:10
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-23 23:48:09 W3SVC3464 GET /facility.htm - - 66.249.65.162 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 200 0 0 19111 424 1641
+2015-04-23 23:50:28 W3SVC3464 GET /infrastructure.htm - - 66.249.65.162 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 200 0 0 23804 430 1391
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-24 00:47:59
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-24 00:47:59 W3SVC3464 GET /mobile/ - - 66.249.65.158 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 404 0 2 1405 419 640
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-24 01:48:18
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-24 01:48:18 W3SVC3464 GET /infrastructure.htm - - 180.76.5.148 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 200 0 0 23823 234 562
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-24 04:46:57
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-24 04:46:56 W3SVC3464 GET /infrastructure.htm - - 157.55.39.248 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.ksmiti.com 304 0 0 210 372 390
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-24 09:15:37
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-24 09:15:37 W3SVC3464 GET /enquiry.htm - - 157.55.39.191 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.ksmiti.com 404 0 2 1405 280 609
+2015-04-24 09:23:11 W3SVC3464 GET /adminstaff.htm - - 157.55.39.200 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.ksmiti.com 404 0 2 1405 283 625
+2015-04-24 09:23:12 W3SVC3464 GET /admission.htm - - 157.55.39.200 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.ksmiti.com 404 0 2 1405 282 281
+2015-04-24 09:23:12 W3SVC3464 GET /document.pdf - - 157.55.39.200 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.ksmiti.com 404 0 2 1405 281 234
+2015-04-24 09:31:39 W3SVC3464 GET /traders.htm - - 157.55.39.169 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.ksmiti.com 404 0 2 1405 280 437
+2015-04-24 09:33:53 W3SVC3464 GET /staff.htm - - 157.55.39.248 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.ksmiti.com 404 0 2 1405 278 515
+2015-04-24 09:33:53 W3SVC3464 GET /director.htm - - 157.55.39.248 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.ksmiti.com 404 0 2 1405 281 250
+2015-04-24 09:33:54 W3SVC3464 GET /banner.html - - 157.55.39.248 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.ksmiti.com 200 0 0 2529 280 281
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-24 10:31:08
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-24 10:31:08 W3SVC3464 GET / - - 180.76.6.42 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - ksmiti.com 200 0 0 19235 212 578
+2015-04-24 10:32:58 W3SVC3464 GET /robots.txt - - 66.249.65.162 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 404 0 2 1405 255 469
+2015-04-24 10:32:59 W3SVC3464 GET / - - 66.249.65.162 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 200 0 0 19216 388 985
+2015-04-24 10:32:59 W3SVC3464 GET /style.css - - 66.249.65.162 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://www.ksmiti.com/ www.ksmiti.com 200 0 0 2686 385 265
+2015-04-24 10:33:00 W3SVC3464 GET /script.js - - 66.249.65.158 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://www.ksmiti.com/ www.ksmiti.com 200 0 0 1531 370 500
+2015-04-24 10:33:02 W3SVC3464 GET /banner.html - - 66.249.65.162 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://www.ksmiti.com/ www.ksmiti.com 200 0 0 2529 432 453
+2015-04-24 10:33:05 W3SVC3464 GET /jquery-1.2.6.min.js - - 66.249.65.158 HTTP/1.1 Mozilla/5.0+AppleWebKit/537.36+(KHTML,+like+Gecko;+Google+Web+Preview+Analytics)+Chrome/27.0.1453+Safari/537.36+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 56038 391 1610
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-24 11:24:51
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-24 11:24:51 W3SVC3464 GET /style.css - - 180.76.5.223 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 200 0 0 2705 225 2063
+2015-04-24 11:37:23 W3SVC3464 GET /enquiry.htm - - 188.165.15.13 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.0;++http://ahrefs.com/robot/) - - ksmiti.com 404 0 64 0 172 281
+2015-04-24 11:42:54 W3SVC3464 GET /adminstaff.htm - - 188.165.15.13 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.0;++http://ahrefs.com/robot/) - - ksmiti.com 404 0 64 0 175 297
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-24 11:58:36
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-24 11:58:36 W3SVC3464 GET / - - 66.249.65.158 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 200 0 0 19216 412 1203
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-24 12:52:16
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-24 12:52:15 W3SVC3464 GET /contact.htm - - 180.76.5.145 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 200 0 0 18527 227 531
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-24 13:31:10
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-24 13:31:10 W3SVC3464 GET /robots.txt - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 404 0 2 1424 175 656
+2015-04-24 13:31:13 W3SVC3464 GET /administrative.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 19196 336 1281
+2015-04-24 13:31:15 W3SVC3464 GET /admission_criteria.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 19334 363 1297
+2015-04-24 13:31:18 W3SVC3464 GET /chairman_member.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 20410 360 1188
+2015-04-24 13:31:20 W3SVC3464 GET /coart_cases.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 19718 356 1281
+2015-04-24 13:31:24 W3SVC3464 GET /grieven.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 18082 352 1188
+2015-04-24 13:31:26 W3SVC3464 GET /inspection_detail.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 19072 362 1219
+2015-04-24 13:31:29 W3SVC3464 GET /instructer_attendence.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 19230 366 1188
+2015-04-24 13:31:32 W3SVC3464 GET /iso_certificate.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 18101 360 1360
+2015-04-24 13:31:35 W3SVC3464 GET /overall_result.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 19141 359 1266
+2015-04-24 13:31:38 W3SVC3464 GET /progress_card.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 25802 358 1203
+2015-04-24 13:31:41 W3SVC3464 GET /rating_of_institute.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 18149 364 1313
+2015-04-24 13:31:43 W3SVC3464 GET /resource_usage.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 19361 359 1344
+2015-04-24 13:31:46 W3SVC3464 GET /state_decorate.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 18837 359 1219
+2015-04-24 13:31:49 W3SVC3464 GET /summery_trade.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 21875 358 1235
+2015-04-24 13:31:52 W3SVC3464 GET /trades_affilated.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 19878 361 1250
+2015-04-24 13:31:55 W3SVC3464 GET /trainee_attendence.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 19246 363 1360
+2015-04-24 13:31:57 W3SVC3464 GET /trainee_certificates.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 22230 365 1328
+2015-04-24 13:32:00 W3SVC3464 GET /training_achivement.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 20049 364 1219
+2015-04-24 13:32:03 W3SVC3464 GET /training_records.htm - - 216.107.155.114 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 19580 361 1250
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-24 13:49:09
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-24 13:49:08 W3SVC3464 GET /robots.txt - - 66.249.65.79 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 404 0 2 1405 251 453
+2015-04-24 13:49:09 W3SVC3464 GET /training_records.htm - - 66.249.65.1 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 200 0 0 19561 304 1203
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-24 15:24:13
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-24 15:24:13 W3SVC3464 GET /scheme.htm - - 66.249.65.166 HTTP/1.1 Mozilla/5.0+(iPhone;+CPU+iPhone+OS+6_0+like+Mac+OS+X)+AppleWebKit/536.26+(KHTML,+like+Gecko)+Version/6.0+Mobile/10A5376e+Safari/8536.25+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 304 0 0 211 472 531
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-24 15:43:33
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-24 15:43:33 W3SVC3464 GET /dget.htm - - 188.165.15.13 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.0;++http://ahrefs.com/robot/) - - ksmiti.com 200 0 0 18952 169 781
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-24 16:09:19
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-24 16:09:19 W3SVC3464 GET /enquiry.htm - - 180.76.5.65 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 404 0 64 0 227 250

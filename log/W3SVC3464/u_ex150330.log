@@ -1,0 +1,157 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-29 18:36:56
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-29 18:36:56 W3SVC3464 GET /robots.txt - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 404 0 2 1405 163 640
+2015-03-29 18:37:00 W3SVC3464 GET / - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 19216 153 906
+2015-03-29 18:37:05 W3SVC3464 GET /index.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 4151 162 218
+2015-03-29 18:37:09 W3SVC3464 GET /aboutus.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 32365 164 531
+2015-03-29 18:37:15 W3SVC3464 GET /managing.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 18964 165 375
+2015-03-29 18:37:19 W3SVC3464 GET /infrastructure.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 23804 171 281
+2015-03-29 18:37:24 W3SVC3464 GET /facility.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 19111 165 265
+2015-03-29 18:37:29 W3SVC3464 GET /dget.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 18952 161 265
+2015-03-29 18:37:35 W3SVC3464 GET /scheme.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 17625 163 281
+2015-03-29 18:37:40 W3SVC3464 GET /gallery.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 23986 164 328
+2015-03-29 18:37:45 W3SVC3464 GET /contact.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 18508 164 297
+2015-03-29 18:37:49 W3SVC3464 GET /banner.html - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 2529 164 359
+2015-03-29 18:37:54 W3SVC3464 GET /traders.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 404 0 2 1405 164 281
+2015-03-29 18:37:59 W3SVC3464 GET /director.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 404 0 2 1405 165 218
+2015-03-29 18:38:05 W3SVC3464 GET /faculty.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 19942 164 328
+2015-03-29 18:38:09 W3SVC3464 GET /staff.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 404 0 2 1405 162 265
+2015-03-29 18:38:15 W3SVC3464 GET /admission.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 404 0 2 1405 166 281
+2015-03-29 18:38:20 W3SVC3464 GET /enquiry.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 404 0 2 1405 164 281
+2015-03-29 18:38:25 W3SVC3464 GET /coart_cases.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 19699 168 297
+2015-03-29 18:38:29 W3SVC3464 GET /inspection_detail.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 19053 174 297
+2015-03-29 18:38:34 W3SVC3464 GET /state_decorate.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 18818 171 281
+2015-03-29 18:38:39 W3SVC3464 GET /rating_of_institute.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 18130 176 312
+2015-03-29 18:38:44 W3SVC3464 GET /grieven.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 18063 164 265
+2015-03-29 18:38:50 W3SVC3464 GET /iso_certificate.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 18082 172 281
+2015-03-29 18:38:54 W3SVC3464 GET /chairman_member.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 20391 172 312
+2015-03-29 18:38:59 W3SVC3464 GET /administrative.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 19177 171 250
+2015-03-29 18:39:04 W3SVC3464 GET /admission_criteria.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 19315 175 250
+2015-03-29 18:39:10 W3SVC3464 GET /summery_trade.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 21856 170 265
+2015-03-29 18:39:15 W3SVC3464 GET /trades_affilated.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 19859 173 250
+2015-03-29 18:39:20 W3SVC3464 GET /trainee_attendence.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 19227 175 281
+2015-03-29 18:39:24 W3SVC3464 GET /instructer_attendence.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 19211 178 328
+2015-03-29 18:39:29 W3SVC3464 GET /progress_card.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 25783 170 250
+2015-03-29 18:39:34 W3SVC3464 GET /overall_result.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 19122 171 250
+2015-03-29 18:39:40 W3SVC3464 GET /training_achivement.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 20030 176 547
+2015-03-29 18:39:44 W3SVC3464 GET /training_records.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 19561 173 281
+2015-03-29 18:39:50 W3SVC3464 GET /trainee_certificates.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 22211 177 265
+2015-03-29 18:39:54 W3SVC3464 GET /resource_usage.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 200 0 0 19342 171 375
+2015-03-29 18:39:59 W3SVC3464 GET /adminstaff.htm - - 158.106.67.129 HTTP/1.1 LinkWalker/3.0+(http://www.brandprotect.com) - - www.ksmiti.com 404 0 2 1405 167 218
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-29 19:44:59
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-29 19:44:58 W3SVC3464 GET / - - 123.125.71.38 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - ksmiti.com 304 0 0 230 304 390
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-29 22:30:31
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-29 22:30:31 W3SVC3464 GET / - - 182.118.20.233 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0);+360Spider(compatible;+HaosouSpider;+http://www.haosou.com/help/help_3_2.html) - http://ksmiti.com/ ksmiti.com 200 0 0 19216 313 938
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-29 22:46:09
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-29 22:46:08 W3SVC3464 GET / - - 144.76.64.115 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/535.19+(KHTML,+like+Gecko)+Ubuntu/11.10+Chromium/18.0.1025.142+Chrome/18.0.1025.142+Safari/535.19 - - www.ksmiti.com 200 0 0 19216 427 906
+2015-03-29 22:53:30 W3SVC3464 GET / - - 52.4.201.90 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.7.8)+Gecko/20050511+Firefox/1.0.4 - - www.ksmiti.com 200 0 0 19216 184 1360
+2015-03-29 23:06:34 W3SVC3464 GET / - - 180.76.5.169 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 200 0 0 19235 216 375
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-30 00:00:12
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-30 00:00:12 W3SVC3464 GET /robots.txt - - 37.140.188.23 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - ksmiti.com 404 0 2 1405 180 578
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-30 01:13:00
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-30 01:13:00 W3SVC3464 GET /aboutus.htm - - 37.140.188.23 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - ksmiti.com 200 0 0 32365 286 1234
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-30 04:17:01
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-30 04:17:00 W3SVC3464 GET /facility.htm - - 207.46.13.112 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.ksmiti.com 304 0 0 210 366 343
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-30 05:59:25
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-30 05:59:25 W3SVC3464 GET / - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - - ksmiti.com 200 0 0 19216 338 656
+2015-03-30 05:59:25 W3SVC3464 GET /style.css - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/ ksmiti.com 200 0 0 2686 320 140
+2015-03-30 05:59:25 W3SVC3464 GET /script.js - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/ ksmiti.com 200 0 0 1531 305 328
+2015-03-30 05:59:25 W3SVC3464 GET /images/bodyBg.png - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/style.css ksmiti.com 200 0 0 995 339 93
+2015-03-30 05:59:26 W3SVC3464 GET /banner.html - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/ ksmiti.com 200 0 0 2529 378 281
+2015-03-30 05:59:26 W3SVC3464 GET /images/mid.jpg - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/ ksmiti.com 200 0 0 5150 327 250
+2015-03-30 05:59:26 W3SVC3464 GET /images/footerBg.jpg - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/ ksmiti.com 200 0 0 9053 332 296
+2015-03-30 05:59:26 W3SVC3464 GET /images/bodyBg.jpg - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/ ksmiti.com 200 0 0 4442 330 531
+2015-03-30 05:59:26 W3SVC3464 GET /logo/logo.png - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/ ksmiti.com 200 0 0 29613 326 1156
+2015-03-30 05:59:27 W3SVC3464 GET /banner/3.jpg - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/banner.html ksmiti.com 200 0 0 71769 336 312
+2015-03-30 05:59:27 W3SVC3464 GET /banner/6.jpg - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/banner.html ksmiti.com 200 0 0 45274 336 250
+2015-03-30 05:59:28 W3SVC3464 GET /banner/1.jpg - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/banner.html ksmiti.com 200 0 0 39848 336 1172
+2015-03-30 05:59:29 W3SVC3464 GET /banner/2.jpg - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/banner.html ksmiti.com 200 0 0 84402 336 3266
+2015-03-30 05:59:31 W3SVC3464 GET /banner/4.jpg - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/banner.html ksmiti.com 200 0 0 172930 336 3470
+2015-03-30 05:59:31 W3SVC3464 GET /banner/5.jpg - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/banner.html ksmiti.com 200 0 0 65905 336 4314
+2015-03-30 05:59:31 W3SVC3464 GET /jquery-1.2.6.min.js - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/banner.html ksmiti.com 200 0 0 56038 326 4439
+2015-03-30 05:59:32 W3SVC3464 GET /favicon.ico - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/ ksmiti.com 404 0 2 1405 307 312
+2015-03-30 06:00:25 W3SVC3464 GET /images/arrow.gif - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/style.css ksmiti.com 404 0 2 1405 338 250
+2015-03-30 06:05:04 W3SVC3464 GET /aboutus.htm - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/ ksmiti.com 200 0 0 32365 378 2735
+2015-03-30 06:05:50 W3SVC3464 GET /images/arrow.gif - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/style.css ksmiti.com 404 0 2 1405 338 218
+2015-03-30 06:05:53 W3SVC3464 GET /contact.htm - - 112.196.47.123 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/43.0.2342.2+Safari/537.36 - http://ksmiti.com/aboutus.htm ksmiti.com 200 0 0 18508 389 453
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-30 06:58:56
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-30 06:58:56 W3SVC3464 GET /coart_cases.htm - - 188.165.15.29 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.0;++http://ahrefs.com/robot/) - - ksmiti.com 200 0 0 19699 176 1156
+2015-03-30 07:09:41 W3SVC3464 GET /robots.txt - - 180.76.6.146 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - www.ksmiti.com 404 0 64 0 186 281
+2015-03-30 07:15:43 W3SVC3464 GET /robots.txt - - 158.106.67.142 HTTP/1.1 Mozilla/4.0+(compatible;+MSIE+6.0;+Windows+NT+5.1) - http://www.bdbrandprotect.com www.ksmiti.com 404 0 2 1405 178 531
+2015-03-30 07:15:45 W3SVC3464 GET /images/img_16.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 33160 113 1391
+2015-03-30 07:15:50 W3SVC3464 GET /images/img_17.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 42103 113 828
+2015-03-30 07:15:54 W3SVC3464 GET /images/img_18.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 42512 113 500
+2015-03-30 07:16:01 W3SVC3464 GET /images/img_19.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 54167 113 1422
+2015-03-30 07:16:09 W3SVC3464 GET /images/img_20.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 34012 113 2516
+2015-03-30 07:16:16 W3SVC3464 GET /images/img_21.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 62828 113 2876
+2015-03-30 07:16:24 W3SVC3464 GET /images/img_22.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 62994 113 1781
+2015-03-30 07:16:29 W3SVC3464 GET /images/img_15.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 55853 113 1641
+2015-03-30 07:16:34 W3SVC3464 GET /images/img_14.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 32496 113 906
+2015-03-30 07:16:40 W3SVC3464 GET /images/img_13.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 36423 113 1094
+2015-03-30 07:16:46 W3SVC3464 GET /images/img_07.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 12396 113 328
+2015-03-30 07:16:52 W3SVC3464 GET /images/img_08.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 45733 113 969
+2015-03-30 07:16:57 W3SVC3464 GET /images/img_09.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 57445 113 1141
+2015-03-30 07:17:03 W3SVC3464 GET /images/img_10.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 54167 113 859
+2015-03-30 07:17:09 W3SVC3464 GET /images/img_11.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 36897 113 906
+2015-03-30 07:17:20 W3SVC3464 GET /images/img_12.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 55971 113 3033
+2015-03-30 07:17:27 W3SVC3464 GET /images/img_01.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 32866 113 2189
+2015-03-30 07:17:31 W3SVC3464 GET /images/img_02.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 11409 113 578
+2015-03-30 07:17:38 W3SVC3464 GET /images/img_03.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 52121 113 1767
+2015-03-30 07:17:43 W3SVC3464 GET /images/img_04.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 54368 113 1798
+2015-03-30 07:17:50 W3SVC3464 GET /images/img_05.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 56549 113 2908
+2015-03-30 07:17:58 W3SVC3464 GET /images/img_06.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 34047 113 3049
+2015-03-30 07:18:02 W3SVC3464 GET /logo/logo.png - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 29613 109 1641
+2015-03-30 07:18:09 W3SVC3464 GET /banner/3.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 71769 108 3534
+2015-03-30 07:18:15 W3SVC3464 GET /banner/2.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 84402 108 2830
+2015-03-30 07:18:21 W3SVC3464 GET /banner/5.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 65905 108 2752
+2015-03-30 07:18:26 W3SVC3464 GET /banner/1.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 39848 108 1626
+2015-03-30 07:18:31 W3SVC3464 GET /banner/6.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 45274 108 1657
+2015-03-30 07:18:40 W3SVC3464 GET /banner/4.jpg - - 158.106.67.142 HTTP/1.1 BPImageWalker/2.0+(www.bdbrandprotect.com) - - www.ksmiti.com 200 0 0 172930 108 5129
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-30 07:44:31
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-30 07:44:30 W3SVC3464 GET /traders.htm - - 188.165.15.29 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.0;++http://ahrefs.com/robot/) - - ksmiti.com 404 0 64 0 172 641
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-30 08:26:33
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-30 08:26:33 W3SVC3464 GET /progress_card.htm - - 188.165.15.29 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.0;++http://ahrefs.com/robot/) - - ksmiti.com 200 0 0 25783 178 1000
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-30 11:33:53
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-30 11:33:53 W3SVC3464 GET /robots.txt - - 192.99.107.138 HTTP/1.1 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) - - www.ksmiti.com 404 0 2 1405 184 719
+2015-03-30 11:33:54 W3SVC3464 GET / - - 192.99.107.148 HTTP/1.1 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) - - www.ksmiti.com 200 0 0 19216 174 1406
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-30 14:46:35
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-30 14:46:35 W3SVC3464 GET / - - 220.181.108.76 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - ksmiti.com 304 0 0 230 304 547
+2015-03-30 15:01:02 W3SVC3464 GET / - - 104.154.60.118 HTTP/1.0 NerdyBot - - ksmiti.com 200 0 0 19240 95 1125

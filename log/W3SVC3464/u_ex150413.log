@@ -1,0 +1,241 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-12 19:50:40
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-12 19:50:40 W3SVC3464 GET /robots.txt - - 180.76.6.55 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - ksmiti.com 404 0 64 0 182 390
+2015-04-12 19:54:29 W3SVC3464 GET /training_records.htm - - 5.45.254.226 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - ksmiti.com 200 0 0 19561 295 953
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-12 20:32:10
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-12 20:32:10 W3SVC3464 GET /robots.txt - - 66.249.67.157 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 404 0 2 1405 251 656
+2015-04-12 20:32:11 W3SVC3464 GET /overall_result.htm - - 66.249.67.157 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 200 0 0 19122 302 1250
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-12 22:45:55
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-12 22:45:55 W3SVC3464 GET / - - 180.76.5.27 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - ksmiti.com 200 0 0 19235 212 515
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 00:25:22
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 00:25:21 W3SVC3464 GET /faculty.htm - - 123.125.71.38 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - ksmiti.com 200 0 0 19961 229 1625
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 02:07:32
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 02:07:32 W3SVC3464 GET /traders.htm - - 180.76.5.95 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 404 0 64 0 227 218
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 02:42:32
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 02:42:32 W3SVC3464 GET /trades_affilated.htm - - 5.45.254.226 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - ksmiti.com 200 0 0 19859 295 1109
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 03:22:42
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 03:22:42 W3SVC3464 GET /dget.htm - - 66.249.67.13 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 200 0 0 18952 292 1453
+2015-04-13 03:24:23 W3SVC3464 GET / - - 124.166.242.205 HTTP/1.0 qingdao+bieshu+chushou+&#38738;+&#23707;+&#21035;+&#22661;+&#20986;+&#21806;+qingdao+villa+for+sale+http://www.dahoms.com - http://KSMITI.COM/ KSMITI.COM 200 0 64 0 213 1047
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 04:25:14
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 04:25:14 W3SVC3464 GET /staff.htm - - 66.249.67.13 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 404 0 2 1405 293 656
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 05:46:53
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 05:46:52 W3SVC3464 GET /document.pdf - - 202.46.50.73 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.125+Safari/537.36 - - www.ksmiti.com 404 0 64 0 260 484
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 06:50:49
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 06:50:49 W3SVC3464 GET /document.pdf - - 202.46.51.75 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/36.0.1985.125+Safari/537.36 - - www.ksmiti.com 404 0 64 0 260 281
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 07:38:54
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 07:38:54 W3SVC3464 GET /_ee/_fslib/swfupload/Changelog.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 70 656
+2015-04-13 07:38:55 W3SVC3464 GET /sqlite/main.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 51 516
+2015-04-13 07:38:55 W3SVC3464 GET /auth/hybridauth/install.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 63 500
+2015-04-13 07:38:56 W3SVC3464 GET /hybridauth/install.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 58 531
+2015-04-13 07:38:57 W3SVC3464 GET /hybridauth/hybridauth/install.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 69 547
+2015-04-13 07:38:58 W3SVC3464 GET /bigdump/bigdump.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 55 531
+2015-04-13 07:38:58 W3SVC3464 GET /bigdump.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 47 516
+2015-04-13 07:38:59 W3SVC3464 GET /dump/bigdump.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 52 516
+2015-04-13 07:39:00 W3SVC3464 GET /admin/bigdump.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 53 484
+2015-04-13 07:39:01 W3SVC3464 GET /admin/dump/bigdump.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 58 500
+2015-04-13 07:39:02 W3SVC3464 GET /backup/bigdump.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 54 500
+2015-04-13 07:39:02 W3SVC3464 GET /backup/bigdump/bigdump.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 62 484
+2015-04-13 07:39:04 W3SVC3464 GET /dump/bigdump/bigdump.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 60 531
+2015-04-13 07:39:05 W3SVC3464 GET /bd/bigdump/bigdump.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 58 484
+2015-04-13 07:39:05 W3SVC3464 GET /database/bigdump/bigdump.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 64 484
+2015-04-13 07:39:06 W3SVC3464 GET /mysql/bigdump/bigdump.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 61 500
+2015-04-13 07:39:07 W3SVC3464 GET /mysql/bigdump.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 53 484
+2015-04-13 07:39:08 W3SVC3464 GET /db/bigdump.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 50 516
+2015-04-13 07:39:08 W3SVC3464 GET /database/bigdump.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 56 516
+2015-04-13 07:39:09 W3SVC3464 GET /js/tiny_mce/plugins/tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 78 516
+2015-04-13 07:39:10 W3SVC3464 GET /jscripts/tiny_mce/plugins/tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 84 500
+2015-04-13 07:39:11 W3SVC3464 GET /admin/tiny_mce/plugins/tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 81 484
+2015-04-13 07:39:12 W3SVC3464 GET /media/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 106 516
+2015-04-13 07:39:12 W3SVC3464 GET /scripts/tiny_mce/plugins/tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 83 531
+2015-04-13 07:39:14 W3SVC3464 GET /app/webroot/js/tiny_mce/plugins/tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 90 516
+2015-04-13 07:39:15 W3SVC3464 GET /data/scripts/tiny_mce/plugins/tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 64 0 88 234
+2015-04-13 07:39:16 W3SVC3464 GET /scripts/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 100 500
+2015-04-13 07:39:16 W3SVC3464 GET /mod/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 96 484
+2015-04-13 07:39:17 W3SVC3464 GET /tiny_mce/plugins/tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 75 516
+2015-04-13 07:39:18 W3SVC3464 GET /tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 92 563
+2015-04-13 07:39:18 W3SVC3464 GET /js/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 95 516
+2015-04-13 07:39:19 W3SVC3464 GET /assets/plugins/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 107 578
+2015-04-13 07:39:21 W3SVC3464 GET /tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 58 531
+2015-04-13 07:39:21 W3SVC3464 GET /includes/jscripts/tiny_mce/plugins/tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 93 500
+2015-04-13 07:39:22 W3SVC3464 GET /sites/all/libraries/tinymce/jscripts/tiny_mce/plugins/tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 112 547
+2015-04-13 07:39:23 W3SVC3464 GET /media/js/tiny_mce/plugins/tinybrowser/readme.txt - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 84 516
+2015-04-13 07:39:23 W3SVC3464 GET /jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 101 500
+2015-04-13 07:39:24 W3SVC3464 GET /js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 95 500
+2015-04-13 07:39:25 W3SVC3464 GET /scripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 100 500
+2015-04-13 07:39:25 W3SVC3464 GET /admin/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 98 500
+2015-04-13 07:39:26 W3SVC3464 GET /app/webroot/js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 107 516
+2015-04-13 07:39:27 W3SVC3464 GET /tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 109 516
+2015-04-13 07:39:28 W3SVC3464 GET /fckeditor/editor/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 100 531
+2015-04-13 07:39:28 W3SVC3464 GET /ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 75 500
+2015-04-13 07:39:29 W3SVC3464 GET /tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 92 516
+2015-04-13 07:39:30 W3SVC3464 GET /zenphoto/zp-core/plugins/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 117 516
+2015-04-13 07:39:30 W3SVC3464 GET /js/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 112 516
+2015-04-13 07:39:31 W3SVC3464 GET /photogallery/zp-core/plugins/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 121 516
+2015-04-13 07:39:32 W3SVC3464 GET /photo/zp-core/plugins/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 114 500
+2015-04-13 07:39:33 W3SVC3464 GET /public/cms/resources/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 113 500
+2015-04-13 07:39:33 W3SVC3464 GET /assets/plugins/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 124 516
+2015-04-13 07:39:34 W3SVC3464 GET /includes/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 110 500
+2015-04-13 07:39:35 W3SVC3464 GET /sites/all/libraries/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 129 500
+2015-04-13 07:39:37 W3SVC3464 GET /media/js/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 101 500
+2015-04-13 07:39:37 W3SVC3464 GET /plugins/editors/tinymce/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 125 531
+2015-04-13 07:39:38 W3SVC3464 GET /assets/plugins/tinymce212/jscripts/tiny_mce/plugins/ajaxfilemanager/jscripts/for_tinymce.js - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 127 469
+2015-04-13 07:39:39 W3SVC3464 GET /uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 59 500
+2015-04-13 07:39:39 W3SVC3464 GET /apps/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 64 500
+2015-04-13 07:39:40 W3SVC3464 GET /js/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 62 500
+2015-04-13 07:39:41 W3SVC3464 GET /scripts/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 67 500
+2015-04-13 07:39:42 W3SVC3464 GET /admin/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 65 516
+2015-04-13 07:39:42 W3SVC3464 GET /admin/scripts/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 73 516
+2015-04-13 07:39:43 W3SVC3464 GET /admin/js/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 68 484
+2015-04-13 07:39:44 W3SVC3464 GET /includes/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 68 500
+2015-04-13 07:39:44 W3SVC3464 GET /admin/includes/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 74 484
+2015-04-13 07:39:45 W3SVC3464 GET /upload/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 56 531
+2015-04-13 07:39:46 W3SVC3464 GET /media/filebrowser/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 77 516
+2015-04-13 07:39:46 W3SVC3464 GET /js/uploader/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 61 500
+2015-04-13 07:39:48 W3SVC3464 GET /admin/uploader/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 64 516
+2015-04-13 07:39:48 W3SVC3464 GET /admin/js/uploader/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 67 516
+2015-04-13 07:39:49 W3SVC3464 GET /static/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 66 516
+2015-04-13 07:39:50 W3SVC3464 GET /includes/js/plugins/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 79 500
+2015-04-13 07:39:51 W3SVC3464 GET /core/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 64 500
+2015-04-13 07:39:51 W3SVC3464 GET /inc/js/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 66 547
+2015-04-13 07:39:52 W3SVC3464 GET /images/uploader/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 65 500
+2015-04-13 07:39:53 W3SVC3464 GET /admin/filebrowser/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 77 531
+2015-04-13 07:39:53 W3SVC3464 GET /assets/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 66 484
+2015-04-13 07:39:54 W3SVC3464 GET /public/js/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 69 547
+2015-04-13 07:39:55 W3SVC3464 GET /media/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 65 484
+2015-04-13 07:39:55 W3SVC3464 GET /js/jquery/plugins/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 64 0 77 484
+2015-04-13 07:39:56 W3SVC3464 GET /js/jquery/uploadify/uploadify.css - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 69 516
+2015-04-13 07:39:58 W3SVC3464 GET /js/fckeditor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 94 531
+2015-04-13 07:39:59 W3SVC3464 GET /FCKeditor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 91 500
+2015-04-13 07:39:59 W3SVC3464 GET /lib/fckeditor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 95 516
+2015-04-13 07:40:00 W3SVC3464 GET /include/fckeditor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 99 500
+2015-04-13 07:40:01 W3SVC3464 GET /sites/all/modules/fckeditor/fckeditor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 119 484
+2015-04-13 07:40:02 W3SVC3464 GET /admin/editor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 94 500
+2015-04-13 07:40:02 W3SVC3464 GET /admin/fck/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 91 500
+2015-04-13 07:40:03 W3SVC3464 GET /modules/fckeditor/fckeditor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 109 500
+2015-04-13 07:40:03 W3SVC3464 GET /editor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 88 500
+2015-04-13 07:40:04 W3SVC3464 GET /public/fckeditor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 98 516
+2015-04-13 07:40:05 W3SVC3464 GET /app/webroot/js/fckeditor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 106 500
+2015-04-13 07:40:05 W3SVC3464 GET /admin/FCKeditor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 97 500
+2015-04-13 07:40:07 W3SVC3464 GET /cms/fckeditor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 95 516
+2015-04-13 07:40:07 W3SVC3464 GET /admin/js/fckeditor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 100 500
+2015-04-13 07:40:08 W3SVC3464 GET /editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 81 500
+2015-04-13 07:40:09 W3SVC3464 GET /manage/fckeditor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 98 516
+2015-04-13 07:40:09 W3SVC3464 GET /system/fckeditor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 98 500
+2015-04-13 07:40:10 W3SVC3464 GET /plugins/fckeditor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 99 500
+2015-04-13 07:40:11 W3SVC3464 GET /webadmin/fckeditor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 100 500
+2015-04-13 07:40:11 W3SVC3464 GET /manager/fckeditor/editor/filemanager/connectors/uploadtest.html - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 99 516
+2015-04-13 07:40:12 W3SVC3464 GET /piwik/libs/open-flash-chart/php-ofc-library/ofc_upload_image.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 100 531
+2015-04-13 07:40:13 W3SVC3464 GET /sites/all/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 122 531
+2015-04-13 07:40:15 W3SVC3464 GET /js/ofc2/php-ofc-library/ofc_upload_image.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 80 516
+2015-04-13 07:40:15 W3SVC3464 GET /ofc/php-ofc-library/ofc_upload_image.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 76 500
+2015-04-13 07:40:16 W3SVC3464 GET /openemr/library/openflashchart/php-ofc-library/ofc_upload_image.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 103 516
+2015-04-13 07:40:17 W3SVC3464 GET /sites/default/modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 126 531
+2015-04-13 07:40:18 W3SVC3464 GET /php-ofc-library/ofc_upload_image.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 72 531
+2015-04-13 07:40:18 W3SVC3464 GET /includes/php-ofc-library/ofc_upload_image.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 81 563
+2015-04-13 07:40:19 W3SVC3464 GET /openflashchart/php-ofc-library/ofc_upload_image.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 87 516
+2015-04-13 07:40:20 W3SVC3464 GET /stats/libs/open-flash-chart/php-ofc-library/ofc_upload_image.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 100 500
+2015-04-13 07:40:20 W3SVC3464 GET /modules/civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 112 500
+2015-04-13 07:40:22 W3SVC3464 GET /openemr-4.1.1/library/openflashchart/php-ofc-library/ofc_upload_image.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 109 516
+2015-04-13 07:40:22 W3SVC3464 GET /civicrm/packages/OpenFlashChart/php-ofc-library/ofc_upload_image.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 104 516
+2015-04-13 07:40:23 W3SVC3464 GET /libs/open-flash-chart/php-ofc-library/ofc_upload_image.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 94 500
+2015-04-13 07:40:23 W3SVC3464 GET /admin_area/charts/ofc-library/ofc_upload_image.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 86 516
+2015-04-13 07:40:25 W3SVC3464 GET /ofc-library/ofc_upload_image.php - - 64.207.155.202 HTTP/1.0 - - - ksmiti.com 404 0 2 1424 68 516
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 11:55:58
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 11:55:57 W3SVC3464 GET /robots.txt - - 66.249.67.13 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 404 0 2 1405 251 735
+2015-04-13 11:55:59 W3SVC3464 GET /scheme.htm - - 66.249.67.5 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 200 0 0 17625 294 1313
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 13:01:06
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 13:01:05 W3SVC3464 GET /traders.htm - - 66.249.67.13 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 404 0 2 1405 295 703
+2015-04-13 13:15:11 W3SVC3464 GET /robots.txt - - 37.140.188.23 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - ksmiti.com 404 0 2 1405 180 218
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 13:43:10
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 13:43:09 W3SVC3464 GET /facility.htm - - 188.165.15.99 HTTP/1.1 Mozilla/5.0+(compatible;+AhrefsBot/5.0;++http://ahrefs.com/robot/) - - ksmiti.com 200 0 0 19111 173 1016
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 14:06:15
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 14:06:15 W3SVC3464 GET /resource_usage.htm - - 178.154.243.98 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - ksmiti.com 200 0 0 19342 293 1156
+2015-04-13 14:08:30 W3SVC3464 GET /gallery.htm - - 66.249.67.5 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 200 0 0 23986 295 1391
+2015-04-13 14:13:21 W3SVC3464 GET /grieven.htm - - 37.140.188.17 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - ksmiti.com 200 0 0 18063 286 1078
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 14:59:59
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 14:59:59 W3SVC3464 GET / - - 104.154.62.153 HTTP/1.0 NerdyBot - - ksmiti.com 200 0 0 19240 95 1360
+2015-04-13 15:12:24 W3SVC3464 GET /coart_cases.htm - - 37.140.188.17 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - ksmiti.com 200 0 0 19699 290 1031
+2015-04-13 15:17:04 W3SVC3464 GET /enquiry.htm - - 66.249.67.157 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 404 0 2 1405 295 515
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 15:53:27
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 15:53:27 W3SVC3464 GET /inspection_detail.htm - - 5.255.253.79 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - ksmiti.com 200 0 0 19053 296 1141
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 16:10:31
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 16:10:30 W3SVC3464 GET /robots.txt - - 5.45.254.226 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - ksmiti.com 404 0 2 1405 180 187
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 16:26:05
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 16:26:04 W3SVC3464 GET /banner.html - - 66.249.67.13 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 200 0 0 2529 295 562
+2015-04-13 16:29:40 W3SVC3464 GET /wp-login.php - - 194.187.250.233 HTTP/1.0 Mozilla/4.0+(compatible;+Synapse) - - ksmiti.com 404 0 2 1429 136 297
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 17:12:18
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 17:12:18 W3SVC3464 GET /overall_result.htm - - 37.140.188.23 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - ksmiti.com 200 0 0 19122 293 703
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 17:34:13
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 17:34:13 W3SVC3464 GET /director.htm - - 66.249.67.13 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 404 0 2 1405 296 672
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 18:01:19
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 18:01:18 W3SVC3464 GET /administrative.htm - - 37.140.188.23 HTTP/1.1 Mozilla/5.0+(compatible;+YandexBot/3.0;++http://yandex.com/bots) - - ksmiti.com 200 0 0 19177 293 1125
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-04-13 18:21:14
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-04-13 18:21:13 W3SVC3464 GET /managing.htm - - 123.125.71.109 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - ksmiti.com 200 0 0 18983 230 1219

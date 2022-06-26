@@ -1,0 +1,263 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-17 18:30:59
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-17 18:30:59 W3SVC3464 GET /enquiry.htm - - 66.249.67.138 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 404 0 2 1405 299 250
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-17 19:32:54
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-17 19:32:54 W3SVC3464 GET /enquiry.htm - - 180.76.5.66 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 404 0 64 0 227 203
+2015-02-17 19:48:40 W3SVC3464 GET /infrastructure.htm - - 207.46.13.105 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.ksmiti.com 200 0 0 23804 287 1171
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-17 22:09:34
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-17 22:09:33 W3SVC3464 GET / - - 66.249.67.154 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 200 0 0 19216 288 1421
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-18 00:48:43
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-18 00:48:43 W3SVC3464 GET / - - 54.183.153.209 HTTP/1.1 Mozilla/5.0+(compatible;+Owler/0.4;++;+) - - ksmiti.com 200 0 0 19216 145 1218
+2015-02-18 00:48:45 W3SVC3464 GET /aboutus.htm - - 54.183.153.209 HTTP/1.1 Mozilla/5.0+(compatible;+Owler/0.4;++;+) - - ksmiti.com 200 0 0 32365 156 1203
+2015-02-18 00:48:47 W3SVC3464 GET /logo/logo.png - - 54.183.153.209 HTTP/1.1 Mozilla/5.0+(compatible;+Owler/0.4;++;+) - - ksmiti.com 200 0 0 29613 158 1671
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-18 01:05:27
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-18 01:05:27 W3SVC3464 GET /director.htm - - 66.249.67.146 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 404 0 2 1405 300 500
+2015-02-18 01:09:47 W3SVC3464 GET /admission.htm - - 66.249.67.146 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 404 0 2 1405 301 500
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-18 02:01:29
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-18 02:01:29 W3SVC3464 GET / - - 66.249.67.146 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 200 0 0 19216 288 1421
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-18 03:20:46
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-18 03:20:46 W3SVC3464 GET /dget.htm - - 180.76.6.141 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 200 0 0 18971 224 562
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-18 04:50:21
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-18 04:50:21 W3SVC3464 GET /robots.txt - - 69.58.178.59 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - - www.ksmiti.com 404 0 2 1405 178 750
+2015-02-18 04:50:23 W3SVC3464 GET / - - 69.58.178.59 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - - www.ksmiti.com 200 0 0 19216 168 1125
+2015-02-18 04:50:32 W3SVC3464 GET / - - 69.58.178.59 HTTP/1.1 BlackBerry9000/4.6.0.167+Profile/MIDP-2.0+Configuration/CLDC-1.1+VendorID/102+ips-agent - - www.ksmiti.com 200 0 0 19216 168 296
+2015-02-18 04:50:34 W3SVC3464 GET /aboutus.htm - - 69.58.178.59 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - - www.ksmiti.com 200 0 0 32365 179 328
+2015-02-18 04:50:36 W3SVC3464 GET /contact.htm - - 69.58.178.59 HTTP/1.1 BlackBerry9000/4.6.0.167+Profile/MIDP-2.0+Configuration/CLDC-1.1+VendorID/102+ips-agent - - www.ksmiti.com 200 0 0 18508 179 296
+2015-02-18 04:50:38 W3SVC3464 GET /index.htm - - 69.58.178.59 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - - www.ksmiti.com 200 0 0 19216 177 281
+2015-02-18 04:50:39 W3SVC3464 GET /managing.htm - - 69.58.178.59 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - - www.ksmiti.com 200 0 0 18964 180 359
+2015-02-18 04:50:40 W3SVC3464 GET /infrastructure.htm - - 69.58.178.59 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - - www.ksmiti.com 200 0 0 23804 186 343
+2015-02-18 04:50:41 W3SVC3464 GET /facility.htm - - 69.58.178.59 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - - www.ksmiti.com 200 0 0 19111 180 328
+2015-02-18 04:50:43 W3SVC3464 GET /dget.htm - - 69.58.178.59 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - - www.ksmiti.com 200 0 0 18952 176 312
+2015-02-18 04:50:44 W3SVC3464 GET /scheme.htm - - 69.58.178.59 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - - www.ksmiti.com 200 0 0 17625 178 312
+2015-02-18 04:50:45 W3SVC3464 GET /gallery.htm - - 69.58.178.59 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+i686;+rv:14.0;+ips-agent)+Gecko/20100101+Firefox/14.0.1 - - www.ksmiti.com 200 0 0 23986 179 328
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-18 07:46:19
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-18 07:46:18 W3SVC3464 GET / - - 89.145.95.2 HTTP/1.1 Mozilla/5.0+(compatible;+GrapeshotCrawler/2.0;++http://www.grapeshot.co.uk/crawler.php) - - www.ksmiti.com 200 0 0 19216 294 1593
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-18 09:00:20
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-18 09:00:19 W3SVC3464 GET /robots.txt - - 108.59.8.70 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 404 0 2 1424 175 703
+2015-02-18 09:00:23 W3SVC3464 GET / - - 108.59.8.70 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 19235 318 1296
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-18 09:22:36
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-18 09:22:36 W3SVC3464 GET /script.js - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/ www.ksmiti.com 200 0 0 1531 946 546
+2015-02-18 09:22:36 W3SVC3464 GET /style.css - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/ www.ksmiti.com 200 0 0 2686 946 546
+2015-02-18 09:22:36 W3SVC3464 GET / - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - - www.ksmiti.com 200 0 0 19216 904 1515
+2015-02-18 09:22:36 W3SVC3464 GET /favicon.ico - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/ www.ksmiti.com 404 0 2 1405 948 312
+2015-02-18 09:22:36 W3SVC3464 GET /banner.html - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/ www.ksmiti.com 200 0 0 2529 948 640
+2015-02-18 09:22:38 W3SVC3464 GET /logo/logo.png - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/ www.ksmiti.com 200 0 0 29613 950 1093
+2015-02-18 09:22:38 W3SVC3464 GET /images/bodyBg.png - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/ www.ksmiti.com 200 0 0 995 954 359
+2015-02-18 09:22:38 W3SVC3464 GET /images/bodyBg.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/ www.ksmiti.com 200 0 0 4442 954 359
+2015-02-18 09:22:38 W3SVC3464 GET /jquery-1.2.6.min.js - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 56038 967 1031
+2015-02-18 09:22:38 W3SVC3464 GET /images/mid.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/ www.ksmiti.com 200 0 0 5150 951 656
+2015-02-18 09:22:39 W3SVC3464 GET /banner/2.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 84402 960 625
+2015-02-18 09:22:39 W3SVC3464 GET /images/footerBg.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/ www.ksmiti.com 200 0 0 9053 956 1093
+2015-02-18 09:22:39 W3SVC3464 GET /banner/3.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 71769 960 1171
+2015-02-18 09:22:39 W3SVC3464 GET /banner/4.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 172930 960 1218
+2015-02-18 09:22:40 W3SVC3464 GET /banner/5.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 65905 960 1671
+2015-02-18 09:22:40 W3SVC3464 GET /banner/6.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 45274 960 1718
+2015-02-18 09:22:40 W3SVC3464 GET /banner/1.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 39848 960 1796
+2015-02-18 09:23:22 W3SVC3464 GET /banner/2.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - - www.ksmiti.com 200 0 0 84402 916 2453
+2015-02-18 09:25:04 W3SVC3464 GET /contact.htm - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/ www.ksmiti.com 200 0 0 18508 948 1375
+2015-02-18 09:25:45 W3SVC3464 GET /images/arrow.gif - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/contact.htm www.ksmiti.com 404 0 2 1405 964 515
+2015-02-18 09:25:57 W3SVC3464 GET /facility.htm - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/contact.htm www.ksmiti.com 200 0 0 19111 960 1140
+2015-02-18 09:26:24 W3SVC3464 GET /favicon.ico - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/contact.htm www.ksmiti.com 404 0 2 1405 959 546
+2015-02-18 09:26:24 W3SVC3464 GET /contact.htm - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - - www.ksmiti.com 200 0 0 18508 915 1421
+2015-02-18 09:26:24 W3SVC3464 GET /script.js - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/contact.htm www.ksmiti.com 200 0 0 1531 957 609
+2015-02-18 09:26:24 W3SVC3464 GET /style.css - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/contact.htm www.ksmiti.com 200 0 0 2686 957 609
+2015-02-18 09:26:24 W3SVC3464 GET /logo/logo.png - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/contact.htm www.ksmiti.com 200 0 0 29613 961 640
+2015-02-18 09:26:24 W3SVC3464 GET /banner.html - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/contact.htm www.ksmiti.com 200 0 0 2529 959 703
+2015-02-18 09:26:25 W3SVC3464 GET /images/bodyBg.png - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/contact.htm www.ksmiti.com 200 0 0 995 965 343
+2015-02-18 09:26:25 W3SVC3464 GET /images/bodyBg.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/contact.htm www.ksmiti.com 200 0 0 4442 965 375
+2015-02-18 09:26:26 W3SVC3464 GET /images/mid.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/contact.htm www.ksmiti.com 200 0 0 5150 962 781
+2015-02-18 09:26:26 W3SVC3464 GET /jquery-1.2.6.min.js - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 56038 967 1703
+2015-02-18 09:26:26 W3SVC3464 GET /images/footerBg.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/contact.htm www.ksmiti.com 200 0 0 9053 967 1062
+2015-02-18 09:26:27 W3SVC3464 GET /banner/5.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 65905 960 953
+2015-02-18 09:26:27 W3SVC3464 GET /banner/1.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 39848 960 1203
+2015-02-18 09:26:27 W3SVC3464 GET /banner/3.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 71769 960 1203
+2015-02-18 09:26:28 W3SVC3464 GET /banner/2.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 84402 960 2000
+2015-02-18 09:26:28 W3SVC3464 GET /banner/4.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 172930 960 2296
+2015-02-18 09:26:29 W3SVC3464 GET /banner/6.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 45274 960 1796
+2015-02-18 09:26:50 W3SVC3464 GET /contact.htm - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - - www.ksmiti.com 304 0 0 210 1000 265
+2015-02-18 09:27:29 W3SVC3464 GET /contact.htm - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - - www.ksmiti.com 304 0 0 210 1000 281
+2015-02-18 09:28:00 W3SVC3464 GET /contact.htm - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - - www.ksmiti.com 304 0 0 210 1000 296
+2015-02-18 09:28:05 W3SVC3464 GET /contact.htm - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - - www.ksmiti.com 200 0 0 3832 1000 875
+2015-02-18 09:28:05 W3SVC3464 GET /images/bodyBg.png - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/contact.htm www.ksmiti.com 200 0 0 995 965 281
+2015-02-18 09:28:06 W3SVC3464 GET /images/bodyBg.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/contact.htm www.ksmiti.com 200 0 0 4442 965 875
+2015-02-18 09:28:06 W3SVC3464 GET /images/mid.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/contact.htm www.ksmiti.com 200 0 0 5150 962 890
+2015-02-18 09:28:06 W3SVC3464 GET /images/footerBg.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/contact.htm www.ksmiti.com 200 0 0 9053 967 1140
+2015-02-18 09:28:06 W3SVC3464 GET /jquery-1.2.6.min.js - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 56038 967 1640
+2015-02-18 09:28:07 W3SVC3464 GET /banner/1.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 39848 960 1093
+2015-02-18 09:28:07 W3SVC3464 GET /banner/2.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 84402 960 1250
+2015-02-18 09:28:09 W3SVC3464 GET /banner/3.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 71769 960 1640
+2015-02-18 09:28:09 W3SVC3464 GET /banner/5.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 65905 960 1875
+2015-02-18 09:28:09 W3SVC3464 GET /banner/4.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 172930 960 2421
+2015-02-18 09:28:10 W3SVC3464 GET /banner/6.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 45274 960 1796
+2015-02-18 09:29:49 W3SVC3464 GET /staff.htm - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - - www.ksmiti.com 404 0 2 1405 913 515
+2015-02-18 09:30:07 W3SVC3464 GET /gallery.htm - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - - www.ksmiti.com 200 0 0 23986 915 1421
+2015-02-18 09:30:07 W3SVC3464 GET /style.css - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 2686 957 578
+2015-02-18 09:30:07 W3SVC3464 GET /script.js - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 1531 957 578
+2015-02-18 09:30:07 W3SVC3464 GET /banner.html - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 2529 959 484
+2015-02-18 09:30:08 W3SVC3464 GET /logo/logo.png - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 29613 961 796
+2015-02-18 09:30:08 W3SVC3464 GET /images/bodyBg.png - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 995 965 296
+2015-02-18 09:30:09 W3SVC3464 GET /js/jquery.min.js - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 57517 964 1687
+2015-02-18 09:30:09 W3SVC3464 GET /jquery-1.2.6.min.js - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 56038 967 1250
+2015-02-18 09:30:09 W3SVC3464 GET /images/bodyBg.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 4442 965 906
+2015-02-18 09:30:09 W3SVC3464 GET /images/mid.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 5150 962 953
+2015-02-18 09:30:09 W3SVC3464 GET /js/jquery.lightbox-0.5.js - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 19858 973 468
+2015-02-18 09:30:09 W3SVC3464 GET /css/jquery.lightbox-0.5.css - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 2513 975 328
+2015-02-18 09:30:09 W3SVC3464 GET /banner/3.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 71769 960 890
+2015-02-18 09:30:10 W3SVC3464 GET /images/img_02.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 11409 965 406
+2015-02-18 09:30:10 W3SVC3464 GET /banner/2.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 84402 960 1062
+2015-02-18 09:30:10 W3SVC3464 GET /images/img_14.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 32496 965 703
+2015-02-18 09:30:10 W3SVC3464 GET /images/img_22.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 62994 965 875
+2015-02-18 09:30:10 W3SVC3464 GET /images/img_15.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 55853 965 1000
+2015-02-18 09:30:10 W3SVC3464 GET /images/img_13.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 36423 965 390
+2015-02-18 09:30:10 W3SVC3464 GET /images/img_01.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 32866 965 1125
+2015-02-18 09:30:10 W3SVC3464 GET /favicon.ico - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 404 0 2 1405 959 1093
+2015-02-18 09:30:10 W3SVC3464 GET /images/img_13.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 64 0 965 703
+2015-02-18 09:30:11 W3SVC3464 GET /images/img_20.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 34012 965 1328
+2015-02-18 09:30:11 W3SVC3464 GET /images/img_18.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 42512 965 390
+2015-02-18 09:30:11 W3SVC3464 GET /images/footerBg.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 9053 967 1250
+2015-02-18 09:30:11 W3SVC3464 GET /images/img_07.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 12396 965 1296
+2015-02-18 09:30:11 W3SVC3464 GET /images/img_03.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 64 0 965 1359
+2015-02-18 09:30:11 W3SVC3464 GET /banner/1.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 39848 960 1843
+2015-02-18 09:30:11 W3SVC3464 GET /images/img_21.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 62828 965 1796
+2015-02-18 09:30:11 W3SVC3464 GET /images/img_03.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 52121 965 390
+2015-02-18 09:30:11 W3SVC3464 GET /images/img_18.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 64 0 965 1921
+2015-02-18 09:30:11 W3SVC3464 GET /banner/6.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 45274 960 2093
+2015-02-18 09:30:11 W3SVC3464 GET /images/img_16.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 33160 965 1140
+2015-02-18 09:30:11 W3SVC3464 GET /images/img_17.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 42103 965 1109
+2015-02-18 09:30:11 W3SVC3464 GET /images/img_19.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 54167 965 796
+2015-02-18 09:30:11 W3SVC3464 GET /images/img_19.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 64 0 965 2156
+2015-02-18 09:30:11 W3SVC3464 GET /images/img_05.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 56549 965 1968
+2015-02-18 09:30:11 W3SVC3464 GET /images/img_06.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 34047 965 1968
+2015-02-18 09:30:11 W3SVC3464 GET /images/img_11.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 36897 965 2031
+2015-02-18 09:30:12 W3SVC3464 GET /images/img_08.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 45733 965 2187
+2015-02-18 09:30:12 W3SVC3464 GET /images/img_10.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 54167 965 2234
+2015-02-18 09:30:12 W3SVC3464 GET /images/img_12.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 55971 965 2187
+2015-02-18 09:30:12 W3SVC3464 GET /images/img_04.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 54368 965 2171
+2015-02-18 09:30:12 W3SVC3464 GET /banner/5.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 65905 960 2562
+2015-02-18 09:30:12 W3SVC3464 GET /images/img_17.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 64 0 965 2875
+2015-02-18 09:30:12 W3SVC3464 GET /banner/4.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 172930 960 3187
+2015-02-18 09:30:12 W3SVC3464 GET /images/img_16.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 64 0 965 3265
+2015-02-18 09:30:13 W3SVC3464 GET /images/img_09.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 57445 965 4000
+2015-02-18 09:30:19 W3SVC3464 GET /gallery.htm - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - - www.ksmiti.com 200 0 0 23986 915 1390
+2015-02-18 09:30:19 W3SVC3464 GET /favicon.ico - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 404 0 2 1405 959 578
+2015-02-18 09:30:19 W3SVC3464 GET /script.js - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 1531 957 593
+2015-02-18 09:30:19 W3SVC3464 GET /style.css - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 2686 957 593
+2015-02-18 09:30:20 W3SVC3464 GET /logo/logo.png - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 29613 961 546
+2015-02-18 09:30:20 W3SVC3464 GET /banner.html - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 2529 959 609
+2015-02-18 09:30:20 W3SVC3464 GET /images/bodyBg.png - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 995 965 281
+2015-02-18 09:30:20 W3SVC3464 GET /images/bodyBg.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 4442 965 281
+2015-02-18 09:30:20 W3SVC3464 GET /js/jquery.min.js - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 57517 964 1406
+2015-02-18 09:30:21 W3SVC3464 GET /js/jquery.lightbox-0.5.js - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 19858 973 375
+2015-02-18 09:30:21 W3SVC3464 GET /jquery-1.2.6.min.js - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 56038 967 1453
+2015-02-18 09:30:21 W3SVC3464 GET /images/mid.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 5150 962 812
+2015-02-18 09:30:21 W3SVC3464 GET /css/jquery.lightbox-0.5.css - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 2513 975 281
+2015-02-18 09:30:21 W3SVC3464 GET /images/img_02.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 11409 965 343
+2015-02-18 09:30:21 W3SVC3464 GET /images/img_18.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 42512 965 343
+2015-02-18 09:30:21 W3SVC3464 GET /banner/3.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 71769 960 781
+2015-02-18 09:30:21 W3SVC3464 GET /images/img_01.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 32866 965 890
+2015-02-18 09:30:21 W3SVC3464 GET /banner/5.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 65905 960 812
+2015-02-18 09:30:22 W3SVC3464 GET /banner/4.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 995 0 960 890
+2015-02-18 09:30:22 W3SVC3464 GET /banner/1.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 39848 960 343
+2015-02-18 09:30:22 W3SVC3464 GET /banner/6.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 45274 960 343
+2015-02-18 09:30:22 W3SVC3464 GET /banner/4.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 172930 960 1062
+2015-02-18 09:30:22 W3SVC3464 GET /images/footerBg.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 9053 967 1203
+2015-02-18 09:30:22 W3SVC3464 GET /banner/2.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 0 84402 960 1515
+2015-02-18 09:30:22 W3SVC3464 GET /images/img_20.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 34012 965 343
+2015-02-18 09:30:22 W3SVC3464 GET /images/img_07.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 12396 965 1359
+2015-02-18 09:30:22 W3SVC3464 GET /images/img_21.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 64 0 965 1500
+2015-02-18 09:30:22 W3SVC3464 GET /images/img_21.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 62828 965 390
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_22.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 62994 965 468
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_13.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 36423 965 1812
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_03.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 52121 965 1828
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_14.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 32496 965 1890
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_16.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 33160 965 1890
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_12.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 55971 965 1937
+2015-02-18 09:30:23 W3SVC3464 GET /banner/1.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 64 0 960 1937
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_15.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 55853 965 1968
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_11.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 36897 965 1984
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_04.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 54368 965 2000
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_17.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 42103 965 2000
+2015-02-18 09:30:23 W3SVC3464 GET /banner/6.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/banner.html www.ksmiti.com 200 0 64 0 960 2031
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_06.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 34047 965 2062
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_05.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 56549 965 2125
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_20.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 64 0 965 2125
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_09.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 57445 965 2156
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_10.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 54167 965 2156
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_19.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 64 0 965 2171
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_08.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 45733 965 2156
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_22.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 64 0 965 2203
+2015-02-18 09:30:23 W3SVC3464 GET /images/img_19.jpg - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 200 0 0 54167 965 1671
+2015-02-18 09:33:02 W3SVC3464 GET /staff.htm - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 404 0 2 1405 957 531
+2015-02-18 09:33:12 W3SVC3464 GET /staff.htm - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 404 0 2 1405 982 281
+2015-02-18 09:33:17 W3SVC3464 GET /staff.htm - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 404 0 2 1405 982 265
+2015-02-18 09:33:24 W3SVC3464 GET /director.htm - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 404 0 2 1405 960 265
+2015-02-18 09:33:30 W3SVC3464 GET /staff.htm - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/gallery.htm www.ksmiti.com 404 0 2 1405 982 265
+2015-02-18 09:34:12 W3SVC3464 GET / - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - - www.ksmiti.com 200 0 0 19216 904 515
+2015-02-18 09:37:31 W3SVC3464 GET /images/arrow.gif - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - http://www.ksmiti.com/ www.ksmiti.com 404 0 2 1405 953 515
+2015-02-18 09:38:15 W3SVC3464 GET / - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - - www.ksmiti.com 304 0 0 211 990 265
+2015-02-18 09:38:46 W3SVC3464 GET /staff.htm - - 37.228.104.180 HTTP/1.1 Opera/9.80+(Android;+Opera+Mini/7.5.35199/35.7382;+U;+en)+Presto/2.8.119+Version/11.10 - - www.ksmiti.com 404 0 2 1405 913 515
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-18 11:49:55
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-18 11:49:54 W3SVC3464 GET /robots.txt - - 192.99.107.28 HTTP/1.1 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) - - www.ksmiti.com 404 0 2 1405 184 703
+2015-02-18 11:49:56 W3SVC3464 GET / - - 192.99.107.28 HTTP/1.1 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) - - www.ksmiti.com 200 0 0 19216 174 1375
+2015-02-18 11:59:10 W3SVC3464 GET / - - 180.76.6.137 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - ksmiti.com 200 0 0 19235 212 515
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-18 12:42:59
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-18 12:42:59 W3SVC3464 GET /infrastructure.htm - - 207.46.13.105 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.ksmiti.com 200 0 0 23804 287 1453
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-18 13:30:00
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-18 13:29:59 W3SVC3464 GET /index.html - - 207.46.13.105 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.ksmiti.com 404 0 2 1405 279 828
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-18 14:56:09
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-18 14:56:09 W3SVC3464 GET /robots.txt - - 123.125.71.29 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - www.ksmiti.com 404 0 64 0 186 609
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-18 15:40:04
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-18 15:40:03 W3SVC3464 GET / - - 104.154.75.30 HTTP/1.0 NerdyBot - - ksmiti.com 200 0 0 19240 95 1406
+2015-02-18 15:48:10 W3SVC3464 GET /script.js - - 180.76.5.173 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 200 0 0 1550 225 156
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-02-18 18:22:36
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-02-18 18:22:36 W3SVC3464 GET /managing.htm - - 207.46.13.105 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.ksmiti.com 200 0 0 18964 281 1296

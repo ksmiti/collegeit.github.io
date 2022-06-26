@@ -1,0 +1,42 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-07-06 19:22:00
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-07-06 19:22:00 W3SVC3464 GET /banner.html - - 180.76.15.136 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 200 0 0 2548 227 421
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-07-07 00:12:50
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-07-07 00:12:50 W3SVC3464 GET /training_records.htm - - 157.55.39.71 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - ksmiti.com 304 0 0 211 371 562
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-07-07 00:52:13
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-07-07 00:52:13 W3SVC3464 GET /infrastructure.htm - - 180.76.15.154 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 200 0 0 23823 234 734
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-07-07 03:04:41
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-07-07 03:04:40 W3SVC3464 GET /script.js - - 180.76.15.136 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 200 0 0 1550 225 390
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-07-07 10:34:49
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-07-07 10:34:48 W3SVC3464 GET / - - 180.76.15.137 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - ksmiti.com 200 0 0 19235 212 1640
+2015-07-07 10:41:45 W3SVC3464 GET / - - 199.217.117.90 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:7.0.1)+Gecko/20100101+Firefox/7.0.1 - - ksmiti.com 200 0 0 19216 314 1234
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-07-07 12:35:35
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-07-07 12:35:34 W3SVC3464 GET /robots.txt - - 182.118.22.207 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0);+360Spider(compatible;+HaosouSpider;+http://www.haosou.com/help/help_3_2.html) - http://ksmiti.com/robots.txt ksmiti.com 404 0 2 1405 333 1046
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-07-07 15:00:19
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-07-07 15:00:18 W3SVC3464 GET / - - 104.197.99.50 HTTP/1.0 NerdyBot - - ksmiti.com 200 0 0 19240 95 1250
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-07-07 16:08:23
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-07-07 16:08:23 W3SVC3464 GET /robots.txt - - 192.99.107.17 HTTP/1.1 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) - - www.ksmiti.com 404 0 2 1405 184 828
+2015-07-07 16:08:24 W3SVC3464 GET / - - 192.99.107.17 HTTP/1.1 Mozilla/5.0+(compatible;+meanpathbot/1.0;++http://www.meanpath.com/meanpathbot.html) - - www.ksmiti.com 200 0 0 19216 174 1375

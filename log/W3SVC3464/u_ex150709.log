@@ -1,0 +1,52 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-07-08 19:05:57
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-07-08 19:05:56 W3SVC3464 GET /robots.txt - - 208.107.41.62 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 404 0 2 1429 176 1484
+2015-07-08 19:06:01 W3SVC3464 GET /chairman_member.htm - - 208.107.41.62 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 200 0 0 20391 372 3078
+2015-07-08 19:06:03 W3SVC3464 GET /robots.txt - - 208.107.41.62 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 404 0 2 1429 180 781
+2015-07-08 19:06:06 W3SVC3464 GET /faculty.htm - - 208.107.41.62 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 19942 368 1406
+2015-07-08 19:06:09 W3SVC3464 GET /gallery.htm - - 208.107.41.62 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 23986 391 812
+2015-07-08 19:06:11 W3SVC3464 GET /grieven.htm - - 208.107.41.62 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 18063 391 1593
+2015-07-08 19:06:14 W3SVC3464 GET /index.htm - - 208.107.41.62 HTTP/1.1 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 19216 389 1093
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-07-09 00:06:58
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-07-09 00:06:58 W3SVC3464 GET /robots.txt - - 199.58.86.211 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 404 0 2 1424 175 609
+2015-07-09 00:07:00 W3SVC3464 GET /admission_criteria.htm - - 199.58.86.211 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 19334 398 1218
+2015-07-09 00:07:03 W3SVC3464 GET /chairman_member.htm - - 199.58.86.211 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 20410 418 1250
+2015-07-09 00:07:06 W3SVC3464 GET /coart_cases.htm - - 199.58.86.211 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 19718 414 1250
+2015-07-09 00:07:08 W3SVC3464 GET /summery_trade.htm - - 199.58.86.211 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 21875 416 1203
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-07-09 02:17:17
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-07-09 02:17:17 W3SVC3464 GET /robots.txt - - 180.76.15.162 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - www.ksmiti.com 404 0 64 0 186 437
+2015-07-09 02:20:19 W3SVC3464 GET /document.pdf - - 180.76.15.149 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 404 0 64 0 228 78
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-07-09 04:21:01
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-07-09 04:21:00 W3SVC3464 GET /iso_certificate.htm - - 180.76.15.154 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 200 0 0 18101 235 1218
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-07-09 10:33:04
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-07-09 10:33:04 W3SVC3464 GET /adminstaff.htm - - 180.76.15.137 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 404 0 64 0 230 453
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-07-09 14:39:01
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-07-09 14:39:00 W3SVC3464 GET / - - 104.197.102.245 HTTP/1.0 NerdyBot - - ksmiti.com 200 0 0 19240 95 1421
+2015-07-09 14:41:20 W3SVC3464 GET /wp-login.php - - 91.121.179.219 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:22.0)+Gecko/20100101+Firefox/22.0+Paros/3.2.13 - - ksmiti.com 404 0 2 1405 291 515
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-07-09 15:04:59
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-07-09 15:04:59 W3SVC3464 GET /media/index.html - - 37.1.200.173 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+rv:21.0)+Gecko/20130331+Firefox/21.0 - http://search.mail.com/web?q=ksmiti.com&search= ksmiti.com 404 0 2 1405 361 1140
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-07-09 16:07:40
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-07-09 16:07:40 W3SVC3464 GET / - - 220.181.108.107 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - ksmiti.com 200 0 121 0 218 82609

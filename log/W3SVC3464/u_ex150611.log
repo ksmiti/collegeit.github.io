@@ -1,0 +1,386 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-06-10 19:15:50
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-06-10 19:15:50 W3SVC3464 GET /summery_trade.htm - - 180.76.15.34 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 200 0 0 21875 233 906
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-06-10 19:48:04
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-06-10 19:48:04 W3SVC3464 GET /gallery.htm - - 207.46.13.11 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - www.ksmiti.com 304 0 0 211 366 718
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-06-10 21:25:22
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-06-10 21:25:21 W3SVC3464 GET /robots.txt - - 180.76.15.26 HTTP/1.1 Mozilla/5.0+(Windows+NT+5.1;+rv:6.0.2)+Gecko/20100101+Firefox/6.0.2 - - www.ksmiti.com 404 0 64 0 186 234
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-06-10 23:28:08
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-06-10 23:28:08 W3SVC3464 GET /robots.txt - - 78.46.50.246 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 404 0 2 1424 171 562
+2015-06-10 23:28:11 W3SVC3464 GET / - - 78.46.50.246 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 200 0 0 19235 372 1015
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-06-11 00:34:08
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-06-11 00:34:08 W3SVC3464 GET / - - 54.152.226.112 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19216 332 1484
+2015-06-11 00:44:52 W3SVC3464 GET /director.htm - - 54.152.226.112 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 531
+2015-06-11 00:44:52 W3SVC3464 GET /document.pdf - - 54.172.88.227 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 515
+2015-06-11 00:44:52 W3SVC3464 GET /infrastructure.htm - - 54.173.142.172 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 64 0 322 609
+2015-06-11 00:44:53 W3SVC3464 GET /staff.htm - - 52.7.187.136 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 313 515
+2015-06-11 00:44:53 W3SVC3464 GET /enquiry.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 515
+2015-06-11 00:44:53 W3SVC3464 GET /scheme.htm - - 54.152.226.112 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 17625 342 1406
+2015-06-11 00:44:53 W3SVC3464 GET /managing.htm - - 52.4.128.179 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18964 344 1390
+2015-06-11 00:44:53 W3SVC3464 GET /contact.htm - - 52.4.128.179 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18508 343 1390
+2015-06-11 00:44:53 W3SVC3464 GET /gallery.htm - - 54.84.36.135 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23986 343 1359
+2015-06-11 00:44:53 W3SVC3464 GET /dget.htm - - 52.7.161.66 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 18952 312 1343
+2015-06-11 00:44:53 W3SVC3464 GET /traders.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 515
+2015-06-11 00:44:53 W3SVC3464 GET /facility.htm - - 54.152.255.196 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19111 316 1453
+2015-06-11 00:44:54 W3SVC3464 GET /aboutus.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 32365 343 1468
+2015-06-11 00:44:54 W3SVC3464 GET /index.htm - - 52.7.112.35 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19216 313 1187
+2015-06-11 00:44:54 W3SVC3464 GET /admission.htm - - 52.5.123.94 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 317 531
+2015-06-11 00:44:54 W3SVC3464 GET / - - 54.173.227.193 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19216 304 1093
+2015-06-11 00:44:54 W3SVC3464 GET /faculty.htm - - 54.173.227.193 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19942 315 1109
+2015-06-11 00:46:55 W3SVC3464 GET /document.pdf - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 437
+2015-06-11 00:46:55 W3SVC3464 GET /enquiry.htm - - 52.7.222.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 531
+2015-06-11 00:46:55 W3SVC3464 GET /index.htm - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19216 341 1078
+2015-06-11 00:46:55 W3SVC3464 GET /admission.htm - - 54.172.88.227 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 345 500
+2015-06-11 00:46:55 W3SVC3464 GET /scheme.htm - - 54.152.255.196 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 17625 314 1328
+2015-06-11 00:46:56 W3SVC3464 GET /director.htm - - 52.7.161.66 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 546
+2015-06-11 00:46:56 W3SVC3464 GET /traders.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 484
+2015-06-11 00:46:56 W3SVC3464 GET /infrastructure.htm - - 52.7.187.136 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23804 350 1343
+2015-06-11 00:46:56 W3SVC3464 GET /aboutus.htm - - 52.4.128.179 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 32365 343 1390
+2015-06-11 00:46:56 W3SVC3464 GET /faculty.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 64 0 343 812
+2015-06-11 00:46:56 W3SVC3464 GET /facility.htm - - 54.172.88.227 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19111 344 1250
+2015-06-11 00:46:56 W3SVC3464 GET /staff.htm - - 54.173.227.193 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 313 453
+2015-06-11 00:46:56 W3SVC3464 GET /adminstaff.htm - - 54.152.226.112 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 346 531
+2015-06-11 00:46:57 W3SVC3464 GET /managing.htm - - 52.0.57.226 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18964 344 1375
+2015-06-11 00:46:57 W3SVC3464 GET /dget.htm - - 52.0.57.226 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18952 340 1421
+2015-06-11 00:46:57 W3SVC3464 GET /contact.htm - - 54.85.9.208 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 18508 315 1296
+2015-06-11 00:46:57 W3SVC3464 GET /gallery.htm - - 54.173.118.139 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 23986 315 1343
+2015-06-11 00:47:01 W3SVC3464 GET /staff.htm - - 54.173.118.70 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 313 531
+2015-06-11 00:47:01 W3SVC3464 GET /staff.htm - - 54.173.118.70 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 313 531
+2015-06-11 00:47:01 W3SVC3464 GET /director.htm - - 52.7.112.35 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 515
+2015-06-11 00:47:01 W3SVC3464 GET /admission.htm - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 345 453
+2015-06-11 00:47:01 W3SVC3464 GET /enquiry.htm - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 453
+2015-06-11 00:47:01 W3SVC3464 GET /director.htm - - 52.6.244.17 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 316 484
+2015-06-11 00:47:01 W3SVC3464 GET /traders.htm - - 54.152.255.196 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 315 515
+2015-06-11 00:47:01 W3SVC3464 GET /enquiry.htm - - 54.84.36.135 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 484
+2015-06-11 00:47:01 W3SVC3464 GET /traders.htm - - 54.84.36.135 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 500
+2015-06-11 00:47:01 W3SVC3464 GET /admission.htm - - 54.152.255.196 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 317 515
+2015-06-11 00:47:01 W3SVC3464 GET /adminstaff.htm - - 52.7.222.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 346 546
+2015-06-11 00:47:01 W3SVC3464 GET /document.pdf - - 52.4.128.179 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 515
+2015-06-11 00:47:01 W3SVC3464 GET /aboutus.htm - - 52.0.57.226 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 32365 343 1390
+2015-06-11 00:47:01 W3SVC3464 GET /index.htm - - 54.85.9.208 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19216 313 1250
+2015-06-11 00:47:01 W3SVC3464 GET /dget.htm - - 54.152.226.112 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18952 340 1281
+2015-06-11 00:47:02 W3SVC3464 GET /facility.htm - - 54.85.9.208 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19111 316 1312
+2015-06-11 00:47:02 W3SVC3464 GET /scheme.htm - - 52.7.112.35 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 17625 342 1265
+2015-06-11 00:47:02 W3SVC3464 GET /infrastructure.htm - - 52.6.244.17 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 23804 322 1265
+2015-06-11 00:47:02 W3SVC3464 GET /contact.htm - - 52.6.244.17 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 18508 315 1406
+2015-06-11 00:47:02 W3SVC3464 GET / - - 52.7.187.136 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19216 332 1312
+2015-06-11 00:47:02 W3SVC3464 GET /contact.htm - - 52.6.244.17 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 18508 315 1406
+2015-06-11 00:47:02 W3SVC3464 GET /aboutus.htm - - 52.7.222.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 32365 343 1296
+2015-06-11 00:47:02 W3SVC3464 GET /gallery.htm - - 52.7.187.136 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23986 343 1406
+2015-06-11 00:47:02 W3SVC3464 GET /dget.htm - - 52.7.222.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18952 340 1359
+2015-06-11 00:47:02 W3SVC3464 GET /faculty.htm - - 52.7.222.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19942 343 1500
+2015-06-11 00:47:02 W3SVC3464 GET /gallery.htm - - 54.174.10.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23986 343 1203
+2015-06-11 00:47:02 W3SVC3464 GET /faculty.htm - - 54.174.10.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19942 343 1234
+2015-06-11 00:47:18 W3SVC3464 GET /scheme.htm - - 54.172.88.227 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 17625 342 1250
+2015-06-11 00:47:18 W3SVC3464 GET /facility.htm - - 54.172.88.227 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19111 344 1265
+2015-06-11 00:47:20 W3SVC3464 GET /document.pdf - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 531
+2015-06-11 00:47:20 W3SVC3464 GET /index.htm - - 52.7.161.66 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19216 341 1296
+2015-06-11 00:47:20 W3SVC3464 GET /managing.htm - - 52.7.161.66 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18964 344 1359
+2015-06-11 00:47:20 W3SVC3464 GET /infrastructure.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 23804 322 1250
+2015-06-11 00:47:20 W3SVC3464 GET /managing.htm - - 54.173.188.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18964 344 1328
+2015-06-11 00:48:46 W3SVC3464 GET /enquiry.htm - - 52.7.161.66 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 531
+2015-06-11 00:48:46 W3SVC3464 GET /document.pdf - - 54.84.36.135 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 500
+2015-06-11 00:48:47 W3SVC3464 GET /admission.htm - - 54.173.188.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 345 515
+2015-06-11 00:48:47 W3SVC3464 GET /staff.htm - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 341 468
+2015-06-11 00:48:47 W3SVC3464 GET /document.pdf - - 52.7.187.136 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 531
+2015-06-11 00:48:47 W3SVC3464 GET /admission.htm - - 54.172.88.227 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 345 484
+2015-06-11 00:48:47 W3SVC3464 GET /contact.htm - - 54.84.36.135 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18508 343 1265
+2015-06-11 00:48:47 W3SVC3464 GET /managing.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 18964 316 1250
+2015-06-11 00:48:47 W3SVC3464 GET /facility.htm - - 52.4.128.179 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19111 344 1359
+2015-06-11 00:48:47 W3SVC3464 GET /scheme.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 17625 314 1265
+2015-06-11 00:48:47 W3SVC3464 GET /dget.htm - - 52.4.128.179 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18952 340 1406
+2015-06-11 00:48:47 W3SVC3464 GET /facility.htm - - 54.173.118.139 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19111 316 1328
+2015-06-11 00:48:47 W3SVC3464 GET /scheme.htm - - 54.173.118.139 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 17625 314 1343
+2015-06-11 00:48:47 W3SVC3464 GET /aboutus.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 32365 315 1312
+2015-06-11 00:48:47 W3SVC3464 GET /faculty.htm - - 54.173.118.139 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19942 315 1375
+2015-06-11 00:48:47 W3SVC3464 GET /adminstaff.htm - - 54.152.226.112 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 346 531
+2015-06-11 00:48:47 W3SVC3464 GET /faculty.htm - - 54.173.142.172 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19942 315 1250
+2015-06-11 00:48:47 W3SVC3464 GET /dget.htm - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18952 340 1156
+2015-06-11 00:48:48 W3SVC3464 GET /traders.htm - - 52.0.57.226 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 531
+2015-06-11 00:48:48 W3SVC3464 GET /director.htm - - 52.5.123.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 531
+2015-06-11 00:48:48 W3SVC3464 GET /director.htm - - 52.5.123.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 515
+2015-06-11 00:48:48 W3SVC3464 GET /index.htm - - 54.152.226.112 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19216 341 1328
+2015-06-11 00:48:48 W3SVC3464 GET /gallery.htm - - 52.7.112.35 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23986 343 1218
+2015-06-11 00:48:48 W3SVC3464 GET /gallery.htm - - 54.85.9.208 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 23986 315 1265
+2015-06-11 00:48:48 W3SVC3464 GET /aboutus.htm - - 54.85.9.208 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 32365 315 1281
+2015-06-11 00:48:48 W3SVC3464 GET /index.htm - - 52.0.57.226 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19216 341 1328
+2015-06-11 00:48:49 W3SVC3464 GET /managing.htm - - 52.5.123.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18964 344 1453
+2015-06-11 00:49:17 W3SVC3464 GET /enquiry.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 315 531
+2015-06-11 00:49:17 W3SVC3464 GET /staff.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 313 531
+2015-06-11 00:49:17 W3SVC3464 GET /traders.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 315 531
+2015-06-11 00:49:19 W3SVC3464 GET /infrastructure.htm - - 54.152.255.196 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23804 350 1421
+2015-06-11 00:49:19 W3SVC3464 GET /infrastructure.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 23804 322 1406
+2015-06-11 00:49:19 W3SVC3464 GET /contact.htm - - 54.152.255.196 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18508 343 1515
+2015-06-11 00:50:56 W3SVC3464 GET /enquiry.htm - - 52.4.128.179 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 531
+2015-06-11 00:50:57 W3SVC3464 GET /scheme.htm - - 52.4.128.179 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 17625 342 1343
+2015-06-11 00:50:58 W3SVC3464 GET /adminstaff.htm - - 52.7.161.66 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 346 531
+2015-06-11 00:50:58 W3SVC3464 GET /gallery.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 23986 315 1281
+2015-06-11 00:50:58 W3SVC3464 GET /aboutus.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 32365 315 1296
+2015-06-11 00:50:58 W3SVC3464 GET /faculty.htm - - 52.7.161.66 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19942 343 1406
+2015-06-11 00:50:59 W3SVC3464 GET /infrastructure.htm - - 52.5.123.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23804 350 1406
+2015-06-11 00:50:59 W3SVC3464 GET /dget.htm - - 52.5.123.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18952 340 1500
+2015-06-11 00:50:59 W3SVC3464 GET /traders.htm - - 54.173.118.139 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 315 515
+2015-06-11 00:50:59 W3SVC3464 GET /document.pdf - - 54.152.226.112 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 546
+2015-06-11 00:50:59 W3SVC3464 GET /staff.htm - - 54.152.226.112 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 341 578
+2015-06-11 00:51:00 W3SVC3464 GET /admission.htm - - 54.172.88.227 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 345 500
+2015-06-11 00:51:00 W3SVC3464 GET /managing.htm - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18964 344 1156
+2015-06-11 00:51:00 W3SVC3464 GET /facility.htm - - 54.173.118.139 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19111 316 1328
+2015-06-11 00:51:00 W3SVC3464 GET /index.htm - - 54.172.88.227 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19216 341 1234
+2015-06-11 00:51:02 W3SVC3464 GET /contact.htm - - 54.173.142.172 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 18508 315 1468
+2015-06-11 00:51:06 W3SVC3464 GET /director.htm - - 52.7.112.35 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 500
+2015-06-11 00:51:43 W3SVC3464 GET /director.htm - - 54.173.227.193 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 316 437
+2015-06-11 00:51:43 W3SVC3464 GET /adminstaff.htm - - 54.173.118.139 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 318 515
+2015-06-11 00:51:43 W3SVC3464 GET /admission.htm - - 52.7.112.35 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 345 468
+2015-06-11 00:51:43 W3SVC3464 GET /traders.htm - - 54.173.188.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 515
+2015-06-11 00:51:43 W3SVC3464 GET /gallery.htm - - 54.85.9.208 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 23986 315 1281
+2015-06-11 00:51:43 W3SVC3464 GET /enquiry.htm - - 54.152.226.112 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 484
+2015-06-11 00:51:44 W3SVC3464 GET /contact.htm - - 52.7.112.35 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18508 343 1421
+2015-06-11 00:51:44 W3SVC3464 GET /document.pdf - - 52.5.123.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 515
+2015-06-11 00:51:44 W3SVC3464 GET /facility.htm - - 52.4.128.179 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19111 344 1343
+2015-06-11 00:51:44 W3SVC3464 GET /index.htm - - 52.4.128.179 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19216 341 1390
+2015-06-11 00:51:44 W3SVC3464 GET /aboutus.htm - - 52.7.222.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 32365 343 1343
+2015-06-11 00:51:44 W3SVC3464 GET /staff.htm - - 54.84.36.135 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 341 515
+2015-06-11 00:51:44 W3SVC3464 GET /infrastructure.htm - - 52.5.123.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23804 350 1343
+2015-06-11 00:51:46 W3SVC3464 GET /faculty.htm - - 54.173.142.172 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19942 315 1250
+2015-06-11 00:51:46 W3SVC3464 GET /managing.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 18964 316 1281
+2015-06-11 00:51:46 W3SVC3464 GET /scheme.htm - - 52.0.57.226 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 17625 342 1500
+2015-06-11 00:51:48 W3SVC3464 GET /staff.htm - - 52.7.161.66 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 341 515
+2015-06-11 00:51:48 W3SVC3464 GET /admission.htm - - 54.173.118.70 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 317 531
+2015-06-11 00:51:48 W3SVC3464 GET /director.htm - - 54.172.88.227 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 484
+2015-06-11 00:51:49 W3SVC3464 GET /contact.htm - - 54.174.10.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18508 343 1281
+2015-06-11 00:51:49 W3SVC3464 GET /document.pdf - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 316 468
+2015-06-11 00:51:49 W3SVC3464 GET /facility.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19111 316 1312
+2015-06-11 00:51:49 W3SVC3464 GET /enquiry.htm - - 52.7.187.136 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 515
+2015-06-11 00:51:49 W3SVC3464 GET /faculty.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19942 315 1468
+2015-06-11 00:51:49 W3SVC3464 GET /document.pdf - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 437
+2015-06-11 00:51:49 W3SVC3464 GET /dget.htm - - 52.5.123.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18952 340 1328
+2015-06-11 00:51:49 W3SVC3464 GET /traders.htm - - 54.84.36.135 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 500
+2015-06-11 00:51:49 W3SVC3464 GET /enquiry.htm - - 52.0.57.226 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 515
+2015-06-11 00:51:49 W3SVC3464 GET /director.htm - - 52.0.57.226 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 515
+2015-06-11 00:51:50 W3SVC3464 GET /traders.htm - - 54.173.227.193 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 315 437
+2015-06-11 00:51:50 W3SVC3464 GET /adminstaff.htm - - 54.173.188.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 346 562
+2015-06-11 00:51:50 W3SVC3464 GET /staff.htm - - 54.173.227.193 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 313 437
+2015-06-11 00:51:50 W3SVC3464 GET /enquiry.htm - - 54.173.188.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 546
+2015-06-11 00:51:50 W3SVC3464 GET /scheme.htm - - 52.7.187.136 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 17625 342 1375
+2015-06-11 00:51:50 W3SVC3464 GET /infrastructure.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 23804 322 1234
+2015-06-11 00:51:50 W3SVC3464 GET /contact.htm - - 52.7.187.136 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18508 343 1296
+2015-06-11 00:51:50 W3SVC3464 GET /staff.htm - - 52.7.112.35 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 341 500
+2015-06-11 00:51:50 W3SVC3464 GET /gallery.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 23986 315 1328
+2015-06-11 00:51:50 W3SVC3464 GET /director.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 316 515
+2015-06-11 00:51:50 W3SVC3464 GET /managing.htm - - 52.7.187.136 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18964 344 1328
+2015-06-11 00:51:50 W3SVC3464 GET /aboutus.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 32365 315 1265
+2015-06-11 00:51:50 W3SVC3464 GET /index.htm - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19216 341 1171
+2015-06-11 00:51:50 W3SVC3464 GET /managing.htm - - 54.173.142.172 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 18964 316 1218
+2015-06-11 00:51:50 W3SVC3464 GET /aboutus.htm - - 54.173.142.172 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 32365 315 1234
+2015-06-11 00:51:50 W3SVC3464 GET /document.pdf - - 54.173.118.70 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 316 531
+2015-06-11 00:51:50 W3SVC3464 GET /scheme.htm - - 54.84.36.135 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 17625 342 1250
+2015-06-11 00:51:50 W3SVC3464 GET /admission.htm - - 54.172.88.227 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 345 500
+2015-06-11 00:51:50 W3SVC3464 GET /faculty.htm - - 52.0.57.226 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19942 343 1343
+2015-06-11 00:51:50 W3SVC3464 GET /infrastructure.htm - - 54.152.255.196 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23804 350 1250
+2015-06-11 00:51:50 W3SVC3464 GET /index.htm - - 54.173.227.193 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19216 313 1109
+2015-06-11 00:51:50 W3SVC3464 GET /faculty.htm - - 54.173.227.193 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19942 315 1125
+2015-06-11 00:51:50 W3SVC3464 GET /gallery.htm - - 54.152.255.196 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23986 343 1359
+2015-06-11 00:51:50 W3SVC3464 GET /facility.htm - - 54.173.188.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19111 344 1343
+2015-06-11 00:51:50 W3SVC3464 GET /adminstaff.htm - - 54.174.10.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 346 500
+2015-06-11 00:51:50 W3SVC3464 GET /traders.htm - - 54.174.10.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 515
+2015-06-11 00:51:50 W3SVC3464 GET /admission.htm - - 52.7.222.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 345 515
+2015-06-11 00:51:50 W3SVC3464 GET /index.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19216 313 1312
+2015-06-11 00:51:51 W3SVC3464 GET /scheme.htm - - 54.152.226.112 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 17625 342 1343
+2015-06-11 00:51:51 W3SVC3464 GET /infrastructure.htm - - 54.172.88.227 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23804 350 1250
+2015-06-11 00:51:51 W3SVC3464 GET /gallery.htm - - 54.174.10.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23986 343 1218
+2015-06-11 00:51:51 W3SVC3464 GET /facility.htm - - 54.174.10.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19111 344 1218
+2015-06-11 00:51:51 W3SVC3464 GET /aboutus.htm - - 52.4.128.179 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 32365 343 1328
+2015-06-11 00:51:51 W3SVC3464 GET /enquiry.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 315 515
+2015-06-11 00:51:51 W3SVC3464 GET /managing.htm - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 64 0 344 593
+2015-06-11 00:51:51 W3SVC3464 GET /adminstaff.htm - - 54.173.142.172 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 318 484
+2015-06-11 00:51:51 W3SVC3464 GET /contact.htm - - 52.5.123.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18508 343 1328
+2015-06-11 00:51:51 W3SVC3464 GET /dget.htm - - 52.5.123.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18952 340 1421
+2015-06-11 00:51:51 W3SVC3464 GET /traders.htm - - 52.0.57.226 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 531
+2015-06-11 00:51:52 W3SVC3464 GET /director.htm - - 54.173.188.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 515
+2015-06-11 00:51:52 W3SVC3464 GET /managing.htm - - 54.173.118.139 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 18964 316 1312
+2015-06-11 00:51:52 W3SVC3464 GET /admission.htm - - 54.173.118.70 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 317 546
+2015-06-11 00:51:52 W3SVC3464 GET /staff.htm - - 54.173.118.139 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 313 515
+2015-06-11 00:51:52 W3SVC3464 GET /infrastructure.htm - - 54.85.9.208 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 23804 322 1265
+2015-06-11 00:51:52 W3SVC3464 GET /document.pdf - - 54.174.10.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 484
+2015-06-11 00:51:52 W3SVC3464 GET /contact.htm - - 54.85.9.208 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 18508 315 1281
+2015-06-11 00:51:52 W3SVC3464 GET /aboutus.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 32365 315 1328
+2015-06-11 00:51:52 W3SVC3464 GET /faculty.htm - - 52.6.244.17 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19942 343 1234
+2015-06-11 00:51:52 W3SVC3464 GET /facility.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19111 316 1328
+2015-06-11 00:51:52 W3SVC3464 GET /dget.htm - - 54.152.255.196 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18952 340 1265
+2015-06-11 00:51:53 W3SVC3464 GET /scheme.htm - - 54.152.255.196 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 17625 342 1312
+2015-06-11 00:51:53 W3SVC3464 GET /gallery.htm - - 54.173.118.70 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 23986 315 1375
+2015-06-11 00:51:53 W3SVC3464 GET /staff.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 313 484
+2015-06-11 00:51:53 W3SVC3464 GET /adminstaff.htm - - 52.1.217.105 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 318 515
+2015-06-11 00:51:53 W3SVC3464 GET /index.htm - - 52.4.128.179 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19216 341 1328
+2015-06-11 00:51:54 W3SVC3464 GET /enquiry.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 315 531
+2015-06-11 00:51:54 W3SVC3464 GET /director.htm - - 54.173.188.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 515
+2015-06-11 00:51:54 W3SVC3464 GET /contact.htm - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18508 343 1109
+2015-06-11 00:51:54 W3SVC3464 GET /scheme.htm - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 17625 342 1125
+2015-06-11 00:51:54 W3SVC3464 GET /dget.htm - - 52.7.187.136 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18952 340 1296
+2015-06-11 00:51:54 W3SVC3464 GET /document.pdf - - 54.152.255.196 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 515
+2015-06-11 00:51:54 W3SVC3464 GET /index.htm - - 52.6.244.17 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19216 341 1234
+2015-06-11 00:51:54 W3SVC3464 GET /faculty.htm - - 54.173.227.193 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19942 315 1093
+2015-06-11 00:51:54 W3SVC3464 GET /admission.htm - - 52.4.128.179 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 345 562
+2015-06-11 00:51:54 W3SVC3464 GET /traders.htm - - 54.174.10.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 484
+2015-06-11 00:51:54 W3SVC3464 GET /aboutus.htm - - 54.173.188.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 32365 343 1312
+2015-06-11 00:51:54 W3SVC3464 GET /infrastructure.htm - - 52.0.57.226 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23804 350 1312
+2015-06-11 00:51:56 W3SVC3464 GET /gallery.htm - - 54.173.118.139 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 23986 315 1281
+2015-06-11 00:51:56 W3SVC3464 GET /managing.htm - - 54.173.118.139 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 18964 316 1281
+2015-06-11 00:51:56 W3SVC3464 GET /facility.htm - - 54.172.88.227 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19111 344 1265
+2015-06-11 00:52:43 W3SVC3464 GET /enquiry.htm - - 52.7.222.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 531
+2015-06-11 00:52:43 W3SVC3464 GET /facility.htm - - 54.174.10.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19111 344 1203
+2015-06-11 00:52:43 W3SVC3464 GET /managing.htm - - 54.173.142.172 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 18964 316 1234
+2015-06-11 00:52:43 W3SVC3464 GET /aboutus.htm - - 54.174.10.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 32365 343 1250
+2015-06-11 00:52:43 W3SVC3464 GET /infrastructure.htm - - 54.174.10.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23804 350 1265
+2015-06-11 00:52:43 W3SVC3464 GET /dget.htm - - 52.7.112.35 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18952 340 1234
+2015-06-11 00:52:43 W3SVC3464 GET /document.pdf - - 52.6.244.17 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 500
+2015-06-11 00:52:43 W3SVC3464 GET /contact.htm - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18508 343 1125
+2015-06-11 00:52:43 W3SVC3464 GET /index.htm - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19216 341 1187
+2015-06-11 00:52:44 W3SVC3464 GET /director.htm - - 52.7.187.136 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 531
+2015-06-11 00:52:44 W3SVC3464 GET /scheme.htm - - 52.6.244.17 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 64 0 342 656
+2015-06-11 00:52:44 W3SVC3464 GET /adminstaff.htm - - 54.173.118.139 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 318 546
+2015-06-11 00:52:44 W3SVC3464 GET /traders.htm - - 54.173.188.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 515
+2015-06-11 00:52:44 W3SVC3464 GET /staff.htm - - 54.85.9.208 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 313 515
+2015-06-11 00:52:44 W3SVC3464 GET /gallery.htm - - 52.5.123.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23986 343 1296
+2015-06-11 00:52:44 W3SVC3464 GET /director.htm - - 54.85.9.208 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 316 515
+2015-06-11 00:52:44 W3SVC3464 GET /enquiry.htm - - 54.152.226.112 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 531
+2015-06-11 00:52:44 W3SVC3464 GET /index.htm - - 52.5.123.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19216 341 1312
+2015-06-11 00:52:44 W3SVC3464 GET /scheme.htm - - 54.173.188.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 17625 342 1328
+2015-06-11 00:52:44 W3SVC3464 GET /adminstaff.htm - - 54.152.255.196 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 346 531
+2015-06-11 00:52:44 W3SVC3464 GET /adminstaff.htm - - 54.173.227.193 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 318 484
+2015-06-11 00:52:44 W3SVC3464 GET /staff.htm - - 54.173.227.193 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 313 468
+2015-06-11 00:52:44 W3SVC3464 GET /aboutus.htm - - 54.172.88.227 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 32365 343 1265
+2015-06-11 00:52:44 W3SVC3464 GET /document.pdf - - 54.174.10.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 484
+2015-06-11 00:52:45 W3SVC3464 GET /enquiry.htm - - 54.173.142.172 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 315 515
+2015-06-11 00:52:45 W3SVC3464 GET /infrastructure.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 23804 322 1296
+2015-06-11 00:52:45 W3SVC3464 GET /dget.htm - - 52.7.161.66 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18952 340 1328
+2015-06-11 00:52:45 W3SVC3464 GET /grieven.htm - - 54.172.88.227 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18063 343 1281
+2015-06-11 00:52:45 W3SVC3464 GET /document.pdf - - 52.7.112.35 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 344 500
+2015-06-11 00:52:45 W3SVC3464 GET /faculty.htm - - 52.7.161.66 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19942 343 1265
+2015-06-11 00:52:45 W3SVC3464 GET /aboutus.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 32365 315 1312
+2015-06-11 00:52:45 W3SVC3464 GET /resource_usage.htm - - 54.172.88.227 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19342 350 1375
+2015-06-11 00:52:45 W3SVC3464 GET /gallery.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 23986 315 1312
+2015-06-11 00:52:45 W3SVC3464 GET /trades_affilated.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19859 324 1390
+2015-06-11 00:52:45 W3SVC3464 GET /admission_criteria.htm - - 54.173.118.139 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19315 326 1578
+2015-06-11 00:52:45 W3SVC3464 GET /administrative.htm - - 54.85.9.208 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19177 322 1328
+2015-06-11 00:52:45 W3SVC3464 GET /rating_of_institute.htm - - 54.174.5.25 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 18130 327 1500
+2015-06-11 00:52:45 W3SVC3464 GET /instructer_attendence.htm - - 52.7.161.66 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19211 357 1562
+2015-06-11 00:52:45 W3SVC3464 GET /inspection_detail.htm - - 54.84.36.135 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19053 353 1281
+2015-06-11 00:52:45 W3SVC3464 GET /faculty.htm - - 54.152.255.196 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19942 343 1250
+2015-06-11 00:52:45 W3SVC3464 GET /admission.htm - - 52.0.57.226 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 345 531
+2015-06-11 00:52:45 W3SVC3464 GET /iso_certificate.htm - - 54.173.227.193 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 18082 323 1187
+2015-06-11 00:52:45 W3SVC3464 GET /admission.htm - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 345 437
+2015-06-11 00:52:45 W3SVC3464 GET /trainee_certificates.htm - - 54.174.10.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 22211 356 1234
+2015-06-11 00:52:45 W3SVC3464 GET /summery_trade.htm - - 52.7.112.35 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 21856 349 1265
+2015-06-11 00:52:45 W3SVC3464 GET /traders.htm - - 52.6.244.17 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 315 468
+2015-06-11 00:52:47 W3SVC3464 GET /contact.htm - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18508 343 1109
+2015-06-11 00:52:47 W3SVC3464 GET /training_records.htm - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19561 352 1093
+2015-06-11 00:52:47 W3SVC3464 GET /director.htm - - 52.5.123.94 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 316 515
+2015-06-11 00:52:47 W3SVC3464 GET /gallery.htm - - 52.0.57.226 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23986 343 1296
+2015-06-11 00:52:47 W3SVC3464 GET /state_decorate.htm - - 54.173.164.69 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18818 350 1171
+2015-06-11 00:52:47 W3SVC3464 GET /progress_card.htm - - 52.0.57.226 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 25783 349 1343
+2015-06-11 00:52:47 W3SVC3464 GET /infrastructure.htm - - 52.0.57.226 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23804 350 1375
+2015-06-11 00:52:47 W3SVC3464 GET /dget.htm - - 52.7.222.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18952 340 1312
+2015-06-11 00:52:47 W3SVC3464 GET /overall_result.htm - - 52.6.244.17 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19122 322 1546
+2015-06-11 00:52:47 W3SVC3464 GET /trainee_attendence.htm - - 52.5.123.94 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19227 326 1390
+2015-06-11 00:52:48 W3SVC3464 GET /chairman_member.htm - - 52.6.244.17 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 20391 323 1906
+2015-06-11 00:52:48 W3SVC3464 GET /facility.htm - - 52.4.128.179 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19111 344 1312
+2015-06-11 00:52:48 W3SVC3464 GET /managing.htm - - 52.4.128.179 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18964 344 1328
+2015-06-11 00:52:48 W3SVC3464 GET /coart_cases.htm - - 52.4.128.179 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19699 347 1562
+2015-06-11 00:52:49 W3SVC3464 GET /staff.htm - - 54.173.188.158 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 341 531
+2015-06-11 00:52:49 W3SVC3464 GET /index.htm - - 54.173.118.70 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19216 341 1265
+2015-06-11 00:52:49 W3SVC3464 GET /scheme.htm - - 54.173.118.70 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 17625 342 1296
+2015-06-11 00:52:49 W3SVC3464 GET /facility.htm - - 54.173.118.70 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19111 344 1328
+2015-06-11 00:52:49 W3SVC3464 GET /contact.htm - - 54.173.118.70 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18508 343 1328
+2015-06-11 00:52:49 W3SVC3464 GET /managing.htm - - 54.173.118.70 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18964 344 1343
+2015-06-11 00:52:49 W3SVC3464 GET /training_achivement.htm - - 54.173.118.70 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 20030 355 1390
+2015-06-11 00:52:57 W3SVC3464 GET /admission.htm - - 52.7.161.66 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 345 531
+2015-06-11 00:52:57 W3SVC3464 GET /director.htm - - 54.85.9.208 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 316 484
+2015-06-11 00:52:57 W3SVC3464 GET /contact.htm - - 52.7.187.136 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 18508 343 1296
+2015-06-11 00:52:58 W3SVC3464 GET /faculty.htm - - 54.84.36.135 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19942 343 1250
+2015-06-11 00:52:58 W3SVC3464 GET /document.pdf - - 54.173.118.139 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 404 0 2 1405 316 515
+2015-06-11 00:52:58 W3SVC3464 GET /index.htm - - 54.173.227.193 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19216 313 1125
+2015-06-11 00:52:58 W3SVC3464 GET /infrastructure.htm - - 54.173.227.193 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 23804 322 1125
+2015-06-11 00:52:58 W3SVC3464 GET /adminstaff.htm - - 54.174.10.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 346 484
+2015-06-11 00:52:59 W3SVC3464 GET /facility.htm - - 54.174.10.103 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19111 344 1218
+2015-06-11 00:53:00 W3SVC3464 GET /enquiry.htm - - 54.173.118.70 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 404 0 2 1405 343 515
+2015-06-11 00:53:00 W3SVC3464 GET /gallery.htm - - 52.7.222.94 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 23986 343 1328
+2015-06-11 00:53:00 W3SVC3464 GET /aboutus.htm - - 54.173.118.70 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 32365 343 1343
+2015-06-11 00:53:01 W3SVC3464 GET /managing.htm - - 52.5.123.94 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 18964 316 1312
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-06-11 05:01:49
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-06-11 05:01:49 W3SVC3464 GET /robots.txt - - 66.249.67.9 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 404 0 2 1405 251 671
+2015-06-11 05:01:51 W3SVC3464 GET /training_records.htm - - 66.249.67.243 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 200 0 0 19561 304 1390
+2015-06-11 05:07:24 W3SVC3464 GET /adminstaff.htm - - 66.249.67.22 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 404 0 2 1405 298 593
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-06-11 05:23:46
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-06-11 05:23:46 W3SVC3464 GET /robots.txt - - 199.192.207.146 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 404 0 2 1424 175 484
+2015-06-11 05:23:48 W3SVC3464 GET /aboutus.htm - - 199.192.207.146 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 32384 387 1250
+2015-06-11 05:23:51 W3SVC3464 GET /admission.htm - - 199.192.207.146 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 404 0 2 1424 412 500
+2015-06-11 05:23:53 W3SVC3464 GET /banner.html - - 199.192.207.146 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 2548 410 671
+2015-06-11 05:23:55 W3SVC3464 GET /contact.htm - - 199.192.207.146 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 18527 410 1421
+2015-06-11 05:23:58 W3SVC3464 GET /dget.htm - - 199.192.207.146 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - www.ksmiti.com 200 0 0 18971 407 1312
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-06-11 07:16:06
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-06-11 07:16:05 W3SVC3464 GET /robots.txt - - 66.249.67.232 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 404 0 2 1405 255 750
+2015-06-11 07:16:07 W3SVC3464 GET /faculty.htm - - 66.249.67.244 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 200 0 0 19942 299 1500
+2015-06-11 07:28:45 W3SVC3464 GET /overall_result.htm - - 66.249.67.9 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - ksmiti.com 200 0 0 19122 302 1531
+2015-06-11 07:35:22 W3SVC3464 GET /style.css - - 66.249.67.220 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 200 0 0 2686 237 531
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-06-11 13:36:09
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-06-11 13:36:08 W3SVC3464 GET /robots.txt - - 162.243.251.129 HTTP/1.1 Mozilla/5.0+(compatible;+spbot/4.4.2;++http://OpenLinkProfiler.org/bot+) - - ksmiti.com 404 0 2 1424 280 937
+2015-06-11 13:36:09 W3SVC3464 GET /robots.txt - - 162.243.251.129 HTTP/1.1 Mozilla/5.0+(compatible;+spbot/4.4.2;++http://OpenLinkProfiler.org/bot+) - - www.ksmiti.com 404 0 2 1424 284 453
+2015-06-11 13:36:13 W3SVC3464 GET / - - 162.243.251.129 HTTP/1.1 Mozilla/5.0+(compatible;+spbot/4.4.2;++http://OpenLinkProfiler.org/bot+) - - www.ksmiti.com 200 0 0 19235 274 1125
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-06-11 15:57:38
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-06-11 15:57:38 W3SVC3464 GET / - - 67.203.22.38 HTTP/1.1 Mozilla/5.0+(Windows;+U;+Windows+NT+5.1;+en-US;+rv:1.8.0.6)+Gecko/20060728+Firefox/1.5 - - www.ksmiti.com 200 0 0 19216 164 1406
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-06-11 17:32:21
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-06-11 17:32:21 W3SVC3464 GET /robots.txt - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 404 0 2 1424 171 625
+2015-06-11 17:32:25 W3SVC3464 GET /aboutus.htm - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 200 0 0 32384 325 1750
+2015-06-11 17:32:37 W3SVC3464 GET /admission.htm - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 404 0 2 1424 350 484
+2015-06-11 17:32:40 W3SVC3464 GET /banner.html - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 200 0 0 2548 348 546
+2015-06-11 17:32:46 W3SVC3464 GET /contact.htm - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 200 0 0 18527 348 1593
+2015-06-11 17:32:57 W3SVC3464 GET /dget.htm - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 200 0 0 18971 345 1421
+2015-06-11 17:33:02 W3SVC3464 GET /director.htm - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 404 0 2 1424 349 562
+2015-06-11 17:33:07 W3SVC3464 GET /enquiry.htm - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 404 0 2 1424 348 546
+2015-06-11 17:33:12 W3SVC3464 GET /facility.htm - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 200 0 0 19130 349 1484
+2015-06-11 17:33:21 W3SVC3464 GET /faculty.htm - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 200 0 0 19961 348 1437
+2015-06-11 17:33:25 W3SVC3464 GET /gallery.htm - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 200 0 0 24005 348 1390
+2015-06-11 17:33:31 W3SVC3464 GET /index.htm - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 200 0 0 19235 346 1312
+2015-06-11 17:33:36 W3SVC3464 GET /infrastructure.htm - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 200 0 0 23823 355 1531
+2015-06-11 17:33:40 W3SVC3464 GET /managing.htm - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 200 0 0 18983 349 1421
+2015-06-11 17:33:44 W3SVC3464 GET /scheme.htm - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 200 0 0 17644 347 1734
+2015-06-11 17:33:47 W3SVC3464 GET /staff.htm - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 404 0 2 1424 346 578
+2015-06-11 17:33:51 W3SVC3464 GET /traders.htm - - 198.27.64.208 HTTP/1.0 Mozilla/5.0+(compatible;+MJ12bot/v1.4.5;+http://www.majestic12.co.uk/bot.php?+) - - ksmiti.com 404 0 2 1424 348 500
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-06-11 18:07:34
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-06-11 18:07:33 W3SVC3464 GET /Photogallery.htm - - 66.249.67.232 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 404 0 2 1405 304 687

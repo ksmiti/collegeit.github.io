@@ -1,0 +1,97 @@
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-01 22:59:00
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-01 22:59:00 W3SVC3464 GET /robots.txt - - 66.249.79.154 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 404 0 2 1405 255 578
+2015-03-01 22:59:00 W3SVC3464 GET / - - 66.249.79.154 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 200 0 0 19216 288 750
+2015-03-01 23:03:38 W3SVC3464 GET /style.css - - 66.249.79.138 HTTP/1.1 Mozilla/5.0+(compatible;+Googlebot/2.1;++http://www.google.com/bot.html) - - www.ksmiti.com 200 0 0 2686 237 484
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-02 03:39:46
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-02 03:39:46 W3SVC3464 GET / - - 95.128.246.45 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.0)+AppleWebKit/535.1+(KHTML,+like+Gecko)+Chrome/13.0.782.1+Safari/535.1 - - ksmiti.com 200 0 0 19216 379 1094
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-02 05:45:29
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-02 05:45:29 W3SVC3464 GET /index.htm - - 180.76.5.61 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 200 0 0 19235 225 1250
+2015-03-02 05:45:34 W3SVC3464 GET / - - 180.76.6.158 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 200 0 0 4170 216 2032
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-02 07:00:38
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-02 07:00:38 W3SVC3464 GET / - - 54.152.181.42 HTTP/1.1 Mozilla/5.0+(X11;+Ubuntu;+Linux+x86_64;+rv:31.0)+Gecko/20100101+Firefox/31.0 - - ksmiti.com 200 0 0 19216 304 3035
+2015-03-02 07:09:20 W3SVC3464 GET / - - 52.1.38.16 HTTP/1.1 Mozilla/5.0+(X11;+Linux+x86_64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/29.0.1547.57+Safari/537.36 - - ksmiti.com 200 0 0 19216 332 1408
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-02 08:33:26
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-02 08:33:25 W3SVC3464 GET /components/com_wrapper/wrapper.xml - - 31.184.195.242 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/40.0.2214.111+Safari/537.36 - - ksmiti.com 404 0 64 0 425 610
+2015-03-02 08:33:26 W3SVC3464 GET /modules/mod_sections.xml - - 31.184.195.242 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/40.0.2214.111+Safari/537.36 - - ksmiti.com 404 0 64 0 415 422
+2015-03-02 08:40:26 W3SVC3464 GET /index.html - - 176.9.207.94 HTTP/1.1 Mozilla/2.0+(compatible;+crw) - - ksmiti.com 404 0 2 1405 133 359
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-02 09:31:16
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-02 09:31:16 W3SVC3464 GET / - - 182.118.21.240 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0);+360Spider(compatible;+HaosouSpider;+http://www.haosou.com/help/help_3_2.html) - http://ksmiti.com/ ksmiti.com 200 0 0 19216 313 1752
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-02 10:56:44
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-02 10:56:43 W3SVC3464 GET /robots.txt - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 404 0 2 1405 297 563
+2015-03-02 10:56:45 W3SVC3464 GET / - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 19216 287 735
+2015-03-02 10:56:48 W3SVC3464 GET /style.css - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 2686 296 250
+2015-03-02 10:56:50 W3SVC3464 GET /script.js - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 1531 296 1001
+2015-03-02 10:56:51 W3SVC3464 GET /banner.html - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 2529 298 391
+2015-03-02 10:56:53 W3SVC3464 GET /jquery-1.2.6.min.js - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 56038 306 1236
+2015-03-02 10:56:57 W3SVC3464 GET /staff.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 404 0 2 1405 296 187
+2015-03-02 10:56:58 W3SVC3464 GET /contact.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 18508 298 453
+2015-03-02 10:57:01 W3SVC3464 GET /aboutus.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 32365 298 594
+2015-03-02 10:57:04 W3SVC3464 GET /administrative.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 19177 305 422
+2015-03-02 10:57:06 W3SVC3464 GET /faculty.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 19942 298 422
+2015-03-02 10:57:08 W3SVC3464 GET /adminstaff.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 404 0 2 1405 301 172
+2015-03-02 10:57:09 W3SVC3464 GET /admission.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 404 0 2 1405 300 187
+2015-03-02 10:57:10 W3SVC3464 GET /admission_criteria.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 19315 309 406
+2015-03-02 10:57:13 W3SVC3464 GET /chairman_member.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 20391 306 1470
+2015-03-02 10:57:16 W3SVC3464 GET /coart_cases.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 19699 302 563
+2015-03-02 10:57:18 W3SVC3464 GET /dget.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 18952 295 578
+2015-03-02 10:57:20 W3SVC3464 GET /director.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 404 0 2 1405 299 187
+2015-03-02 10:57:22 W3SVC3464 GET /facility.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 19111 299 610
+2015-03-02 10:57:23 W3SVC3464 GET /grieven.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 18063 298 391
+2015-03-02 10:57:25 W3SVC3464 GET /infrastructure.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 23804 305 610
+2015-03-02 10:57:29 W3SVC3464 GET /inspection_detail.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 19053 308 1956
+2015-03-02 10:57:31 W3SVC3464 GET /instructer_attendence.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 19211 312 782
+2015-03-02 10:57:33 W3SVC3464 GET /iso_certificate.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 18082 306 704
+2015-03-02 10:57:36 W3SVC3464 GET /managing.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 18964 299 1267
+2015-03-02 10:57:39 W3SVC3464 GET /overall_result.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 19122 305 1674
+2015-03-02 10:57:42 W3SVC3464 GET /progress_card.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 25783 304 1173
+2015-03-02 10:57:44 W3SVC3464 GET /rating_of_institute.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 18130 310 532
+2015-03-02 10:57:47 W3SVC3464 GET /resource_usage.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 19342 305 594
+2015-03-02 10:57:48 W3SVC3464 GET /scheme.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 17625 297 469
+2015-03-02 10:57:50 W3SVC3464 GET /state_decorate.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 18818 305 500
+2015-03-02 10:57:53 W3SVC3464 GET /summery_trade.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 21856 304 610
+2015-03-02 10:57:54 W3SVC3464 GET /traders.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 404 0 2 1405 298 172
+2015-03-02 10:57:56 W3SVC3464 GET /trades_affilated.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 19859 307 344
+2015-03-02 10:57:57 W3SVC3464 GET /trainee_attendence.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 19227 309 391
+2015-03-02 10:57:59 W3SVC3464 GET /trainee_certificates.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 22211 311 532
+2015-03-02 10:58:02 W3SVC3464 GET /training_achivement.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 20030 310 516
+2015-03-02 10:58:05 W3SVC3464 GET /training_records.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 200 0 0 19561 307 1298
+2015-03-02 10:58:06 W3SVC3464 GET /enquiry.htm - - 82.145.46.102 HTTP/1.1 Mozilla/5.0+(compatible;+aiHitBot/2.9;++https://www.aihitdata.com/about) - - www.ksmiti.com 404 0 2 1405 298 156
+2015-03-02 11:01:33 W3SVC3464 GET /robots.txt - - 157.55.39.94 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - ksmiti.com 404 0 64 0 262 3082
+2015-03-02 11:01:44 W3SVC3464 GET / - - 157.55.39.94 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - ksmiti.com 200 0 0 19216 265 1220
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-02 15:47:52
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-02 15:47:52 W3SVC3464 GET / - - 104.154.94.238 HTTP/1.0 NerdyBot - - ksmiti.com 200 0 0 19240 95 1456
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-02 17:06:20
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-02 17:06:20 W3SVC3464 GET / - - 180.76.5.177 HTTP/1.1 Mozilla/5.0+(compatible;+Baiduspider/2.0;++http://www.baidu.com/search/spider.html) - - www.ksmiti.com 200 0 0 19235 216 532
+#Software: Microsoft Internet Information Services 7.5
+#Version: 1.0
+#Date: 2015-03-02 17:36:21
+#Fields: date time s-sitename cs-method cs-uri-stem cs-uri-query cs-username c-ip cs-version cs(User-Agent) cs(Cookie) cs(Referer) cs-host sc-status sc-substatus sc-win32-status sc-bytes cs-bytes time-taken
+2015-03-02 17:36:21 W3SVC3464 GET /AboutUs.htm - - 207.46.13.105 HTTP/1.1 Mozilla/5.0+(compatible;+bingbot/2.0;++http://www.bing.com/bingbot.htm) - - ksmiti.com 304 0 0 210 361 391
+2015-03-02 17:48:52 W3SVC3464 GET /robots.txt - - 182.118.22.210 HTTP/1.1 Mozilla/5.0+(compatible;+MSIE+9.0;+Windows+NT+6.1;+Trident/5.0);+360Spider(compatible;+HaosouSpider;+http://www.haosou.com/help/help_3_2.html) - http://ksmiti.com/robots.txt ksmiti.com 404 0 2 1405 333 485
